@@ -1,153 +1,25 @@
 ---
-title: "Our Services"
-description: "Comprehensive healthcare services including general OPD, specialty consultations, and health resources. Book appointments for online consultations."
+title: "Services"
+redirect: "index.qmd"
 ---
 
-# Our Services
+# EpiPulse Services
 
-EpiPulse provides accessible healthcare services through our online OPD platform. We offer general consultations and specialized care in key areas of public health concern. All consultations are conducted via secure video calls using Google Meet.
+Our services are organized to support public health institutions and communities with evidence-based solutions aligned with our mission.
 
-## General OPD
+## Service Categories
 
-Our general OPD provides primary healthcare consultations for common health issues, preventive care, and health education.
+**[Visit Services in Navigation Menu](index.qmd)**
 
-### Services Offered:
-- Routine health check-ups
-- Common illness diagnosis and treatment
-- Health counseling and education
-- Preventive care advice
-- Referral to specialists when needed
+Services menu includes:
+- Health Data Analysis & Research Support
+- NCD Prevention & Management Support
+- Maternal, Child & Adolescent Health Support
+- Environmental & Occupational Health Support
+- Education & Capacity Building
 
-### Consultation Fee: ₹200 per session (30 minutes)
-### Available: Monday to Saturday, 9 AM - 6 PM
+For more information, navigate to **Services** in the top menu.
 
-## Specialty Services
-
-We offer specialized consultations in areas critical to public health in India.
-
-### Deaddiction Services
-
-Comprehensive support for substance use disorders and addiction recovery.
-
-#### Services Offered:
-- Addiction assessment and counseling
-- Withdrawal management guidance
-- Relapse prevention strategies
-- Family counseling
-- Referral to rehabilitation centers
-
-#### Consultation Fee: ₹300 per session (45 minutes)
-#### Available: Tuesday, Thursday, Saturday | 10 AM - 4 PM
-#### Consultant: Dr. [Name], Addiction Medicine Specialist
-
-### NCD (Non-Communicable Diseases) Care
-
-Focused care for chronic conditions like diabetes, hypertension, cardiovascular diseases, and respiratory disorders.
-
-#### Services Offered:
-- NCD screening and diagnosis
-- Chronic disease management
-- Lifestyle modification counseling
-- Medication adherence support
-- Complication prevention
-
-#### Consultation Fee: ₹250 per session (30 minutes)
-#### Available: Monday to Friday | 9 AM - 5 PM
-#### Consultants:
-- Dr. [Name], Diabetologist
-- Dr. [Name], Cardiologist
-- Dr. [Name], Pulmonologist
-
-### Pediatric Care
-
-Specialized healthcare for infants, children, and adolescents.
-
-#### Services Offered:
-- Child health check-ups
-- Growth and development monitoring
-- Vaccination counseling
-- Common childhood illness management
-- Nutritional guidance
-- Behavioral and developmental concerns
-
-#### Consultation Fee: ₹250 per session (30 minutes)
-#### Available: Monday to Saturday | 9 AM - 2 PM
-#### Consultant: Dr. [Name], Pediatrician
-
-## Resources
-
-Access our comprehensive health resources and educational materials.
-
-### Available Resources:
-- Health education articles
-- Preventive care guidelines
-- NCD management tools
-- Pediatric care checklists
-- Addiction recovery resources
-- COVID-19 information and updates
-
-[Access Resources](resources.qmd)
-
-## How to Book an Appointment
-
-### For Patients:
-
-1. **Choose Service**: Select the type of consultation you need from the options above
-2. **Fill Booking Form**: Click the "Book Appointment" button below and complete the form
-3. **Provide Details**: Include your name, contact information, preferred date/time, and brief description of your health concern
-4. **Confirmation**: You'll receive a confirmation email/SMS with your appointment details
-5. **Join Consultation**: At the scheduled time, click the Google Meet link provided in your confirmation
-
-### Booking Form
-
-```{=html}
-<iframe src="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-```
-
-*Note: Replace YOUR_FORM_ID with your actual Google Form ID*
-
-### Alternative Booking Methods:
-- **WhatsApp**: Message us at [WhatsApp number] with "BOOK [Service Type]"
-- **Email**: Send booking request to appointments@epipulse.org
-- **Phone**: Call [Phone number] during business hours
-
-## Managing Appointments
-
-### For Our Team:
-
-We use integrated tools to manage appointments efficiently:
-
-#### 1. Google Forms for Booking
-- Automatic form responses sent to team email
-- Responses stored in Google Sheets for easy access
-- Real-time notifications for new bookings
-
-#### 2. Google Calendar for Scheduling
-- Centralized calendar for all appointments
-- Color-coded by service type
-- Automated reminders and notifications
-
-#### 3. Appointment Dashboard
-- View all upcoming appointments
-- Track consultation status
-- Generate reports and analytics
-
-### Daily Workflow:
-
-1. **Morning Check**: Review Google Forms responses and update calendar
-2. **Appointment Confirmation**: Send Meet links to confirmed patients
-3. **Consultation**: Join meetings at scheduled times
-4. **Documentation**: Record consultation details in patient logs
-5. **Follow-up**: Send prescriptions and recommendations via email
-
-### Tools Setup:
-
-#### Google Form Setup:
-1. Create a new Google Form with fields: Name, Phone, Email, Service Type, Preferred Date/Time, Health Concern
-2. Set up email notifications for form responses
-3. Link responses to a Google Sheet for data management
-
-#### Google Calendar Setup:
 1. Create a shared calendar for appointments
 2. Set up different calendars for each specialty
 3. Enable notifications and reminders

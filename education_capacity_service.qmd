@@ -1,0 +1,117 @@
+---
+title: "Education & Capacity Building"
+description: "Workforce development through training, mentorship, and practical implementation support for public health professionals."
+---
+
+# Education & Capacity Building
+
+EpiPulse develops public health workforce capacity through rigorous training, mentorship, and hands-on implementation support.
+
+## Training Programs
+
+### Public Health Fundamentals
+- Epidemiology essentials
+- Biostatistics and data analysis
+- Public health program planning
+- Ethics in public health research
+- Health policy and systems
+
+### Research & Methods
+- Study design and implementation
+- Qualitative and quantitative research methods
+- Implementation science approaches
+- Data analysis using R
+- Health systems research
+
+### Field Implementation Skills
+- Community health worker training
+- Care provider competency development
+- Supervision and monitoring
+- Quality improvement methods
+- Documentation and reporting
+
+### Health Data & Digital Skills
+- Health information systems
+- Data visualization and dashboards
+- R programming for health
+- Digital health technologies
+- Data security and privacy
+
+## Fellowship & Mentorship
+
+### EpiPulse Fellowship Programs
+- Short-term placements (1-3 months)
+- Specialized field projects
+- Mentored research experience
+- Practical problem-solving exposure
+- Networking with public health professionals
+
+### Areas of Focus
+- Epidemiology and surveillance
+- NCD prevention and control
+- Maternal and child health
+- Environmental and occupational health
+- Health systems strengthening
+
+### Mentorship Support
+- Individual career guidance
+- Research project mentoring
+- Implementation support
+- Publication and dissemination help
+
+## Capacity Building Services
+
+### For Organizations
+- Customized training programs
+- Staff competency assessment
+- Organizational development
+- Systems strengthening
+- Performance improvement support
+
+### For Academic Institutions
+- Curriculum development
+- Faculty mentoring
+- Student project support
+- Research collaboration
+
+### For Health Systems
+- Health worker training
+- Quality improvement coaching
+- Supervision strengthening
+- Data system implementation
+
+## Learning Resources
+
+### Online Learning Platform
+- Video tutorials
+- Case studies
+- Implementation guides
+- Research methodology resources
+- Public health data analysis examples
+
+### Publications & Tools
+- Practical implementation guides
+- Training manuals
+- Monitoring and evaluation frameworks
+- Quality improvement toolkits
+
+## Target Participants
+
+- Public health professionals
+- Health system managers
+- Community health workers
+- Health facility staff
+- Academic researchers
+- Data analysts
+- Program implementers
+
+## Application & Enrollment
+
+Interested in our training or fellowship programs?
+
+**Email**: education@epipulse.org  
+**Learn More**: [Contact Us](contact.qmd)
+
+---
+
+*Building a skilled, ethical, and evidence-informed public health workforce for healthier communities.*

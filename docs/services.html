@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Comprehensive healthcare services including general OPD, specialty consultations, and health resources. Book appointments for online consultations.">
 
-<title>Our Services – EpiPulse</title>
+<title>Services – EpiPulse</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -138,33 +137,44 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <a class="nav-link" href="./programs.html"> 
 <span class="menu-text">Programs</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./services.html" aria-current="page"> 
-<span class="menu-text">Services</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-services" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Services</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-services">    
+        <li>
+    <a class="dropdown-item" href="./health_data_analysis_service.html">
+ <span class="dropdown-text">Health Data Analysis &amp; Research</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./ncd_support_service.html">
+ <span class="dropdown-text">NCD Prevention &amp; Management</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mcah_support_service.html">
+ <span class="dropdown-text">Maternal, Child &amp; Adolescent Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./environmental_health_service.html">
+ <span class="dropdown-text">Environmental &amp; Occupational Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./education_capacity_service.html">
+ <span class="dropdown-text">Education &amp; Capacity Building</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-appointments" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Appointments</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-appointments">    
         <li>
-    <a class="dropdown-item" href="./book_appointment.qmd">
+    <a class="dropdown-item" href="https://epipulse-appointments.railway.app/">
  <span class="dropdown-text">Book Appointment</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./appointments.html">
- <span class="dropdown-text">Manage Appointments</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./online_consultations.html">
- <span class="dropdown-text">Online Consultations</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./caregrid.html"> 
-<span class="menu-text">CareGrid App</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./impact.html"> 
 <span class="menu-text">Impact</span></a>
@@ -183,16 +193,24 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
+    <a class="dropdown-item" href="./caregrid.html">
+ <span class="dropdown-text">CareGrid App</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./public_health_data_analysis.html">
  <span class="dropdown-text">Resource Hub</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./ai_with_r.html">
- <span class="dropdown-text">AI-assisted Data Cleaning Workflow</span></a>
+ <span class="dropdown-text">AI Workflow for Data Cleaning</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://drpkepipulse1.shinyapps.io/iapgrowthr/">
+ <span class="dropdown-text">Health Data Analysis Tool</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./resources.html">
- <span class="dropdown-text">Health Resources</span></a>
+ <span class="dropdown-text">Health Reference Materials</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./srma_tutorial.html">
@@ -200,11 +218,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </li>  
         <li>
     <a class="dropdown-item" href="./railway_setup.html">
- <span class="dropdown-text">Railway Deployment Guide</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./public_health_data_analaysis.html">
- <span class="dropdown-text">Legacy Technical Draft</span></a>
+ <span class="dropdown-text">Technical Documentation</span></a>
   </li>  
     </ul>
   </li>
@@ -238,36 +252,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#our-services" id="toc-our-services" class="nav-link active" data-scroll-target="#our-services">Our Services</a>
+  <li><a href="#epipulse-services" id="toc-epipulse-services" class="nav-link active" data-scroll-target="#epipulse-services">EpiPulse Services</a>
   <ul class="collapse">
-  <li><a href="#general-opd" id="toc-general-opd" class="nav-link" data-scroll-target="#general-opd">General OPD</a>
-  <ul class="collapse">
-  <li><a href="#services-offered" id="toc-services-offered" class="nav-link" data-scroll-target="#services-offered">Services Offered:</a></li>
-  <li><a href="#consultation-fee-200-per-session-30-minutes" id="toc-consultation-fee-200-per-session-30-minutes" class="nav-link" data-scroll-target="#consultation-fee-200-per-session-30-minutes">Consultation Fee: ₹200 per session (30 minutes)</a></li>
-  <li><a href="#available-monday-to-saturday-9-am---6-pm" id="toc-available-monday-to-saturday-9-am---6-pm" class="nav-link" data-scroll-target="#available-monday-to-saturday-9-am---6-pm">Available: Monday to Saturday, 9 AM - 6 PM</a></li>
-  </ul></li>
-  <li><a href="#specialty-services" id="toc-specialty-services" class="nav-link" data-scroll-target="#specialty-services">Specialty Services</a>
-  <ul class="collapse">
-  <li><a href="#deaddiction-services" id="toc-deaddiction-services" class="nav-link" data-scroll-target="#deaddiction-services">Deaddiction Services</a></li>
-  <li><a href="#ncd-non-communicable-diseases-care" id="toc-ncd-non-communicable-diseases-care" class="nav-link" data-scroll-target="#ncd-non-communicable-diseases-care">NCD (Non-Communicable Diseases) Care</a></li>
-  <li><a href="#pediatric-care" id="toc-pediatric-care" class="nav-link" data-scroll-target="#pediatric-care">Pediatric Care</a></li>
-  </ul></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a>
-  <ul class="collapse">
-  <li><a href="#available-resources" id="toc-available-resources" class="nav-link" data-scroll-target="#available-resources">Available Resources:</a></li>
-  </ul></li>
-  <li><a href="#how-to-book-an-appointment" id="toc-how-to-book-an-appointment" class="nav-link" data-scroll-target="#how-to-book-an-appointment">How to Book an Appointment</a>
-  <ul class="collapse">
-  <li><a href="#for-patients" id="toc-for-patients" class="nav-link" data-scroll-target="#for-patients">For Patients:</a></li>
-  <li><a href="#booking-form" id="toc-booking-form" class="nav-link" data-scroll-target="#booking-form">Booking Form</a></li>
-  <li><a href="#alternative-booking-methods" id="toc-alternative-booking-methods" class="nav-link" data-scroll-target="#alternative-booking-methods">Alternative Booking Methods:</a></li>
-  </ul></li>
-  <li><a href="#managing-appointments" id="toc-managing-appointments" class="nav-link" data-scroll-target="#managing-appointments">Managing Appointments</a>
-  <ul class="collapse">
-  <li><a href="#for-our-team" id="toc-for-our-team" class="nav-link" data-scroll-target="#for-our-team">For Our Team:</a></li>
-  <li><a href="#daily-workflow" id="toc-daily-workflow" class="nav-link" data-scroll-target="#daily-workflow">Daily Workflow:</a></li>
-  <li><a href="#tools-setup" id="toc-tools-setup" class="nav-link" data-scroll-target="#tools-setup">Tools Setup:</a></li>
-  </ul></li>
+  <li><a href="#service-categories" id="toc-service-categories" class="nav-link" data-scroll-target="#service-categories">Service Categories</a></li>
   <li><a href="#technical-implementation" id="toc-technical-implementation" class="nav-link" data-scroll-target="#technical-implementation">Technical Implementation</a>
   <ul class="collapse">
   <li><a href="#embedding-google-meet-on-website" id="toc-embedding-google-meet-on-website" class="nav-link" data-scroll-target="#embedding-google-meet-on-website">Embedding Google Meet on Website</a></li>
@@ -285,14 +272,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Our Services</h1>
+<h1 class="title">Services</h1>
 </div>
 
-<div>
-  <div class="description">
-    Comprehensive healthcare services including general OPD, specialty consultations, and health resources. Book appointments for online consultations.
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -307,209 +289,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="our-services" class="level1">
-<h1>Our Services</h1>
-<p>EpiPulse provides accessible healthcare services through our online OPD platform. We offer general consultations and specialized care in key areas of public health concern. All consultations are conducted via secure video calls using Google Meet.</p>
-<section id="general-opd" class="level2">
-<h2 class="anchored" data-anchor-id="general-opd">General OPD</h2>
-<p>Our general OPD provides primary healthcare consultations for common health issues, preventive care, and health education.</p>
-<section id="services-offered" class="level3">
-<h3 class="anchored" data-anchor-id="services-offered">Services Offered:</h3>
-<ul>
-<li>Routine health check-ups</li>
-<li>Common illness diagnosis and treatment</li>
-<li>Health counseling and education</li>
-<li>Preventive care advice</li>
-<li>Referral to specialists when needed</li>
-</ul>
-</section>
-<section id="consultation-fee-200-per-session-30-minutes" class="level3">
-<h3 class="anchored" data-anchor-id="consultation-fee-200-per-session-30-minutes">Consultation Fee: ₹200 per session (30 minutes)</h3>
-</section>
-<section id="available-monday-to-saturday-9-am---6-pm" class="level3">
-<h3 class="anchored" data-anchor-id="available-monday-to-saturday-9-am---6-pm">Available: Monday to Saturday, 9 AM - 6 PM</h3>
-</section>
-</section>
-<section id="specialty-services" class="level2">
-<h2 class="anchored" data-anchor-id="specialty-services">Specialty Services</h2>
-<p>We offer specialized consultations in areas critical to public health in India.</p>
-<section id="deaddiction-services" class="level3">
-<h3 class="anchored" data-anchor-id="deaddiction-services">Deaddiction Services</h3>
-<p>Comprehensive support for substance use disorders and addiction recovery.</p>
-<section id="services-offered-1" class="level4">
-<h4 class="anchored" data-anchor-id="services-offered-1">Services Offered:</h4>
-<ul>
-<li>Addiction assessment and counseling</li>
-<li>Withdrawal management guidance</li>
-<li>Relapse prevention strategies</li>
-<li>Family counseling</li>
-<li>Referral to rehabilitation centers</li>
-</ul>
-</section>
-<section id="consultation-fee-300-per-session-45-minutes" class="level4">
-<h4 class="anchored" data-anchor-id="consultation-fee-300-per-session-45-minutes">Consultation Fee: ₹300 per session (45 minutes)</h4>
-</section>
-<section id="available-tuesday-thursday-saturday-10-am---4-pm" class="level4">
-<h4 class="anchored" data-anchor-id="available-tuesday-thursday-saturday-10-am---4-pm">Available: Tuesday, Thursday, Saturday | 10 AM - 4 PM</h4>
-</section>
-<section id="consultant-dr.-name-addiction-medicine-specialist" class="level4">
-<h4 class="anchored" data-anchor-id="consultant-dr.-name-addiction-medicine-specialist">Consultant: Dr.&nbsp;[Name], Addiction Medicine Specialist</h4>
-</section>
-</section>
-<section id="ncd-non-communicable-diseases-care" class="level3">
-<h3 class="anchored" data-anchor-id="ncd-non-communicable-diseases-care">NCD (Non-Communicable Diseases) Care</h3>
-<p>Focused care for chronic conditions like diabetes, hypertension, cardiovascular diseases, and respiratory disorders.</p>
-<section id="services-offered-2" class="level4">
-<h4 class="anchored" data-anchor-id="services-offered-2">Services Offered:</h4>
-<ul>
-<li>NCD screening and diagnosis</li>
-<li>Chronic disease management</li>
-<li>Lifestyle modification counseling</li>
-<li>Medication adherence support</li>
-<li>Complication prevention</li>
-</ul>
-</section>
-<section id="consultation-fee-250-per-session-30-minutes" class="level4">
-<h4 class="anchored" data-anchor-id="consultation-fee-250-per-session-30-minutes">Consultation Fee: ₹250 per session (30 minutes)</h4>
-</section>
-<section id="available-monday-to-friday-9-am---5-pm" class="level4">
-<h4 class="anchored" data-anchor-id="available-monday-to-friday-9-am---5-pm">Available: Monday to Friday | 9 AM - 5 PM</h4>
-</section>
-<section id="consultants" class="level4">
-<h4 class="anchored" data-anchor-id="consultants">Consultants:</h4>
-<ul>
-<li>Dr.&nbsp;[Name], Diabetologist</li>
-<li>Dr.&nbsp;[Name], Cardiologist</li>
-<li>Dr.&nbsp;[Name], Pulmonologist</li>
-</ul>
-</section>
-</section>
-<section id="pediatric-care" class="level3">
-<h3 class="anchored" data-anchor-id="pediatric-care">Pediatric Care</h3>
-<p>Specialized healthcare for infants, children, and adolescents.</p>
-<section id="services-offered-3" class="level4">
-<h4 class="anchored" data-anchor-id="services-offered-3">Services Offered:</h4>
-<ul>
-<li>Child health check-ups</li>
-<li>Growth and development monitoring</li>
-<li>Vaccination counseling</li>
-<li>Common childhood illness management</li>
-<li>Nutritional guidance</li>
-<li>Behavioral and developmental concerns</li>
-</ul>
-</section>
-<section id="consultation-fee-250-per-session-30-minutes-1" class="level4">
-<h4 class="anchored" data-anchor-id="consultation-fee-250-per-session-30-minutes-1">Consultation Fee: ₹250 per session (30 minutes)</h4>
-</section>
-<section id="available-monday-to-saturday-9-am---2-pm" class="level4">
-<h4 class="anchored" data-anchor-id="available-monday-to-saturday-9-am---2-pm">Available: Monday to Saturday | 9 AM - 2 PM</h4>
-</section>
-<section id="consultant-dr.-name-pediatrician" class="level4">
-<h4 class="anchored" data-anchor-id="consultant-dr.-name-pediatrician">Consultant: Dr.&nbsp;[Name], Pediatrician</h4>
-</section>
-</section>
-</section>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<p>Access our comprehensive health resources and educational materials.</p>
-<section id="available-resources" class="level3">
-<h3 class="anchored" data-anchor-id="available-resources">Available Resources:</h3>
-<ul>
-<li>Health education articles</li>
-<li>Preventive care guidelines</li>
-<li>NCD management tools</li>
-<li>Pediatric care checklists</li>
-<li>Addiction recovery resources</li>
-<li>COVID-19 information and updates</li>
-</ul>
-<p><a href="./resources.html">Access Resources</a></p>
-</section>
-</section>
-<section id="how-to-book-an-appointment" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-book-an-appointment">How to Book an Appointment</h2>
-<section id="for-patients" class="level3">
-<h3 class="anchored" data-anchor-id="for-patients">For Patients:</h3>
-<ol type="1">
-<li><strong>Choose Service</strong>: Select the type of consultation you need from the options above</li>
-<li><strong>Fill Booking Form</strong>: Click the “Book Appointment” button below and complete the form</li>
-<li><strong>Provide Details</strong>: Include your name, contact information, preferred date/time, and brief description of your health concern</li>
-<li><strong>Confirmation</strong>: You’ll receive a confirmation email/SMS with your appointment details</li>
-<li><strong>Join Consultation</strong>: At the scheduled time, click the Google Meet link provided in your confirmation</li>
-</ol>
-</section>
-<section id="booking-form" class="level3">
-<h3 class="anchored" data-anchor-id="booking-form">Booking Form</h3>
-<iframe src="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-<p><em>Note: Replace YOUR_FORM_ID with your actual Google Form ID</em></p>
-</section>
-<section id="alternative-booking-methods" class="level3">
-<h3 class="anchored" data-anchor-id="alternative-booking-methods">Alternative Booking Methods:</h3>
-<ul>
-<li><strong>WhatsApp</strong>: Message us at [WhatsApp number] with “BOOK [Service Type]”</li>
-<li><strong>Email</strong>: Send booking request to appointments@epipulse.org</li>
-<li><strong>Phone</strong>: Call [Phone number] during business hours</li>
-</ul>
-</section>
-</section>
-<section id="managing-appointments" class="level2">
-<h2 class="anchored" data-anchor-id="managing-appointments">Managing Appointments</h2>
-<section id="for-our-team" class="level3">
-<h3 class="anchored" data-anchor-id="for-our-team">For Our Team:</h3>
-<p>We use integrated tools to manage appointments efficiently:</p>
-<section id="google-forms-for-booking" class="level4">
-<h4 class="anchored" data-anchor-id="google-forms-for-booking">1. Google Forms for Booking</h4>
-<ul>
-<li>Automatic form responses sent to team email</li>
-<li>Responses stored in Google Sheets for easy access</li>
-<li>Real-time notifications for new bookings</li>
-</ul>
-</section>
-<section id="google-calendar-for-scheduling" class="level4">
-<h4 class="anchored" data-anchor-id="google-calendar-for-scheduling">2. Google Calendar for Scheduling</h4>
-<ul>
-<li>Centralized calendar for all appointments</li>
-<li>Color-coded by service type</li>
-<li>Automated reminders and notifications</li>
-</ul>
-</section>
-<section id="appointment-dashboard" class="level4">
-<h4 class="anchored" data-anchor-id="appointment-dashboard">3. Appointment Dashboard</h4>
-<ul>
-<li>View all upcoming appointments</li>
-<li>Track consultation status</li>
-<li>Generate reports and analytics</li>
-</ul>
-</section>
-</section>
-<section id="daily-workflow" class="level3">
-<h3 class="anchored" data-anchor-id="daily-workflow">Daily Workflow:</h3>
-<ol type="1">
-<li><strong>Morning Check</strong>: Review Google Forms responses and update calendar</li>
-<li><strong>Appointment Confirmation</strong>: Send Meet links to confirmed patients</li>
-<li><strong>Consultation</strong>: Join meetings at scheduled times</li>
-<li><strong>Documentation</strong>: Record consultation details in patient logs</li>
-<li><strong>Follow-up</strong>: Send prescriptions and recommendations via email</li>
-</ol>
-</section>
-<section id="tools-setup" class="level3">
-<h3 class="anchored" data-anchor-id="tools-setup">Tools Setup:</h3>
-<section id="google-form-setup" class="level4">
-<h4 class="anchored" data-anchor-id="google-form-setup">Google Form Setup:</h4>
-<ol type="1">
-<li>Create a new Google Form with fields: Name, Phone, Email, Service Type, Preferred Date/Time, Health Concern</li>
-<li>Set up email notifications for form responses</li>
-<li>Link responses to a Google Sheet for data management</li>
-</ol>
-</section>
-<section id="google-calendar-setup" class="level4">
-<h4 class="anchored" data-anchor-id="google-calendar-setup">Google Calendar Setup:</h4>
+<section id="epipulse-services" class="level1">
+<h1>EpiPulse Services</h1>
+<p>Our services are organized to support public health institutions and communities with evidence-based solutions aligned with our mission.</p>
+<section id="service-categories" class="level2">
+<h2 class="anchored" data-anchor-id="service-categories">Service Categories</h2>
+<p><strong><a href="./index.html">Visit Services in Navigation Menu</a></strong></p>
+<p>Services menu includes: - Health Data Analysis &amp; Research Support - NCD Prevention &amp; Management Support - Maternal, Child &amp; Adolescent Health Support - Environmental &amp; Occupational Health Support - Education &amp; Capacity Building</p>
+<p>For more information, navigate to <strong>Services</strong> in the top menu.</p>
 <ol type="1">
 <li>Create a shared calendar for appointments</li>
 <li>Set up different calendars for each specialty</li>
 <li>Enable notifications and reminders</li>
 <li>Share calendar with team members</li>
 </ol>
-</section>
 <section id="google-meet-integration" class="level4">
 <h4 class="anchored" data-anchor-id="google-meet-integration">Google Meet Integration:</h4>
 <ol type="1">
@@ -517,7 +310,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Create recurring Meet links for each time slot</li>
 <li>Embed Meet links in confirmation emails</li>
 </ol>
-</section>
 </section>
 </section>
 <section id="technical-implementation" class="level2">

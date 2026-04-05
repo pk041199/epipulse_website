@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Track, reschedule, or cancel your EpiPulse healthcare appointment. View appointment status and consultation details.">
+<meta name="description" content="View, reschedule, or cancel your EpiPulse appointments.">
 
 <title>Manage Your Appointments – EpiPulse</title>
 <style>
@@ -103,33 +103,44 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./programs.html"> 
 <span class="menu-text">Programs</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./services.html"> 
-<span class="menu-text">Services</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-services" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Services</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-services">    
+        <li>
+    <a class="dropdown-item" href="./health_data_analysis_service.html">
+ <span class="dropdown-text">Health Data Analysis &amp; Research</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./ncd_support_service.html">
+ <span class="dropdown-text">NCD Prevention &amp; Management</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mcah_support_service.html">
+ <span class="dropdown-text">Maternal, Child &amp; Adolescent Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./environmental_health_service.html">
+ <span class="dropdown-text">Environmental &amp; Occupational Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./education_capacity_service.html">
+ <span class="dropdown-text">Education &amp; Capacity Building</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-appointments" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Appointments</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-appointments">    
         <li>
-    <a class="dropdown-item" href="./book_appointment.qmd">
+    <a class="dropdown-item" href="https://epipulse-appointments.railway.app/">
  <span class="dropdown-text">Book Appointment</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./appointments.html">
- <span class="dropdown-text">Manage Appointments</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./online_consultations.html">
- <span class="dropdown-text">Online Consultations</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./caregrid.html"> 
-<span class="menu-text">CareGrid App</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./impact.html"> 
 <span class="menu-text">Impact</span></a>
@@ -148,16 +159,24 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
+    <a class="dropdown-item" href="./caregrid.html">
+ <span class="dropdown-text">CareGrid App</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./public_health_data_analysis.html">
  <span class="dropdown-text">Resource Hub</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./ai_with_r.html">
- <span class="dropdown-text">AI-assisted Data Cleaning Workflow</span></a>
+ <span class="dropdown-text">AI Workflow for Data Cleaning</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://drpkepipulse1.shinyapps.io/iapgrowthr/">
+ <span class="dropdown-text">Health Data Analysis Tool</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./resources.html">
- <span class="dropdown-text">Health Resources</span></a>
+ <span class="dropdown-text">Health Reference Materials</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./srma_tutorial.html">
@@ -165,11 +184,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./railway_setup.html">
- <span class="dropdown-text">Railway Deployment Guide</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./public_health_data_analaysis.html">
- <span class="dropdown-text">Legacy Technical Draft</span></a>
+ <span class="dropdown-text">Technical Documentation</span></a>
   </li>  
     </ul>
   </li>
@@ -205,23 +220,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#manage-your-appointments" id="toc-manage-your-appointments" class="nav-link active" data-scroll-target="#manage-your-appointments">Manage Your Appointments</a>
   <ul class="collapse">
-  <li><a href="#check-your-appointment-status" id="toc-check-your-appointment-status" class="nav-link" data-scroll-target="#check-your-appointment-status">Check Your Appointment Status</a>
-  <ul class="collapse">
-  <li><a href="#method-1-email-confirmation" id="toc-method-1-email-confirmation" class="nav-link" data-scroll-target="#method-1-email-confirmation">Method 1: Email Confirmation</a></li>
-  <li><a href="#method-2-sms-confirmation" id="toc-method-2-sms-confirmation" class="nav-link" data-scroll-target="#method-2-sms-confirmation">Method 2: SMS Confirmation</a></li>
-  <li><a href="#method-3-contact-us" id="toc-method-3-contact-us" class="nav-link" data-scroll-target="#method-3-contact-us">Method 3: Contact Us</a></li>
-  </ul></li>
-  <li><a href="#your-appointment-information" id="toc-your-appointment-information" class="nav-link" data-scroll-target="#your-appointment-information">Your Appointment Information</a></li>
-  <li><a href="#reschedule-your-appointment" id="toc-reschedule-your-appointment" class="nav-link" data-scroll-target="#reschedule-your-appointment">Reschedule Your Appointment</a>
-  <ul class="collapse">
-  <li><a href="#rescheduling-policy" id="toc-rescheduling-policy" class="nav-link" data-scroll-target="#rescheduling-policy">Rescheduling Policy</a></li>
-  <li><a href="#how-to-reschedule" id="toc-how-to-reschedule" class="nav-link" data-scroll-target="#how-to-reschedule">How to Reschedule</a></li>
-  </ul></li>
-  <li><a href="#cancel-your-appointment" id="toc-cancel-your-appointment" class="nav-link" data-scroll-target="#cancel-your-appointment">Cancel Your Appointment</a>
-  <ul class="collapse">
-  <li><a href="#cancellation-policy" id="toc-cancellation-policy" class="nav-link" data-scroll-target="#cancellation-policy">Cancellation Policy</a></li>
-  <li><a href="#how-to-cancel" id="toc-how-to-cancel" class="nav-link" data-scroll-target="#how-to-cancel">How to Cancel</a></li>
-  </ul></li>
+  <li><a href="#view-or-manage-your-appointment" id="toc-view-or-manage-your-appointment" class="nav-link" data-scroll-target="#view-or-manage-your-appointment">View or Manage Your Appointment</a></li>
+  <li><a href="#appointment-support" id="toc-appointment-support" class="nav-link" data-scroll-target="#appointment-support">Appointment Support</a></li>
   <li><a href="#no-show-policy" id="toc-no-show-policy" class="nav-link" data-scroll-target="#no-show-policy">No-Show Policy</a>
   <ul class="collapse">
   <li><a href="#what-is-a-no-show" id="toc-what-is-a-no-show" class="nav-link" data-scroll-target="#what-is-a-no-show">What is a “No-Show”?</a></li>
@@ -278,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Track, reschedule, or cancel your EpiPulse healthcare appointment. View appointment status and consultation details.
+    View, reschedule, or cancel your EpiPulse appointments.
   </div>
 </div>
 
@@ -297,171 +297,65 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="manage-your-appointments" class="level1">
 <h1>Manage Your Appointments</h1>
-<p>Track your healthcare appointments with EpiPulse. Check status, reschedule, or get support for your bookings.</p>
-<section id="check-your-appointment-status" class="level2">
-<h2 class="anchored" data-anchor-id="check-your-appointment-status">Check Your Appointment Status</h2>
-<p>To view your appointment details, use one of these methods:</p>
-<section id="method-1-email-confirmation" class="level3">
-<h3 class="anchored" data-anchor-id="method-1-email-confirmation">Method 1: Email Confirmation</h3>
-<ul>
-<li>Look for your appointment confirmation email</li>
-<li>Contains all appointment details</li>
-<li>Shows Google Meet link</li>
-<li>Includes appointment ID</li>
-</ul>
+<section id="view-or-manage-your-appointment" class="level3">
+<h3 class="anchored" data-anchor-id="view-or-manage-your-appointment">View or Manage Your Appointment</h3>
+<p>To check your appointment status, reschedule, or cancel:</p>
+<p><strong><a href="https://epipulse-appointments.railway.app/">Go to Appointment Management</a></strong></p>
+<hr>
 </section>
-<section id="method-2-sms-confirmation" class="level3">
-<h3 class="anchored" data-anchor-id="method-2-sms-confirmation">Method 2: SMS Confirmation</h3>
-<ul>
-<li>Check SMS sent to your registered phone number</li>
-<li>Contains appointment date, time, and doctor name</li>
-<li>Has Meet link or code</li>
-</ul>
-</section>
-<section id="method-3-contact-us" class="level3">
-<h3 class="anchored" data-anchor-id="method-3-contact-us">Method 3: Contact Us</h3>
+<section id="appointment-support" class="level2">
+<h2 class="anchored" data-anchor-id="appointment-support">Appointment Support</h2>
+<p>If you need help with your appointment:</p>
 <ul>
 <li><strong>Email</strong>: appointments@epipulse.org</li>
-<li><strong>Phone</strong>: [Your phone number]</li>
-<li><strong>WhatsApp</strong>: [Your WhatsApp number]</li>
-<li><strong>Hours</strong>: 9 AM - 6 PM, Monday to Saturday</li>
+<li><strong>Phone</strong>: [Your Contact Number]</li>
+<li><strong>WhatsApp</strong>: [Your WhatsApp Number]</li>
 </ul>
 <hr>
-</section>
-</section>
-<section id="your-appointment-information" class="level2">
-<h2 class="anchored" data-anchor-id="your-appointment-information">Your Appointment Information</h2>
-<p>When you book with us, you’ll receive:</p>
-<pre><code>═══════════════════════════════════
-     APPOINTMENT CONFIRMATION
-═══════════════════════════════════
+<p><strong>For booking a new appointment:</strong> <a href="./book_appointment.html">Book Appointment</a> - Appointment ID: [From your confirmation] - Date: [Current date] - Time: [Current time] - Doctor: [Doctor name]</p>
+<p>Preferred New Date: [Your preference] Preferred New Time: [Your preference] Reason (Optional): [Why you’re rescheduling]</p>
+<p>Contact Details: - Name: [Your name] - Phone: [Your phone] - Email: [Your email]</p>
+<p>Thank you, [Your Name]</p>
+<pre><code>
+**Option B: Phone/WhatsApp**
+- Call: [Your phone number]
+- WhatsApp: [Your WhatsApp number]
+- Say: "I want to reschedule my appointment" (ID: [Your ID])
+- Provide new preferred dates/times
 
-Appointment ID: EPP-2024-001234
-Patient Name: [Your Name]
-Registered Phone: [Your Phone]
-Registered Email: [Your Email]
+**Option C: Online Form**
+[Reschedule Request Form](https://forms.google.com/YOUR_FORM_ID)
 
-SERVICE DETAILS
-Service Type: General OPD
-Doctor: Dr. [Doctor Name]
-Consultation Fee: ₹200
+#### Step 2: Confirmation
+- You'll receive confirmation of new appointment
+- New Google Meet link will be sent
+- Update calendar with new date/time
 
-APPOINTMENT SCHEDULE
-Date: [Appointment Date]
-Time: [Time Slot]
-Duration: 30 minutes
-Location: Online (Google Meet)
+---
 
-GOOGLE MEET DETAILS
-Meeting Link: https://meet.google.com/xxx-xxxx-xxx
-Meeting Code: [Code]
-Password: [If required]
+## Cancel Your Appointment
 
-BEFORE YOUR APPOINTMENT
-- Test your internet connection
-- Prepare any medical documents
-- Join 5-10 minutes early
-- Ensure private, quiet space
+### Cancellation Policy
+- ✅ **Can cancel**: Up to 24 hours before appointment
+- ❌ **Cannot cancel**: Less than 24 hours before appointment
+- ⚠️ **Repeated cancellations**: May result in booking restrictions
 
-IMPORTANT REMINDERS
-- Cancellation: Up to 24 hours before
-- No-show policy applies
-- Digital prescription will be emailed
-- Keep this confirmation safe
+### How to Cancel
 
-═══════════════════════════════════</code></pre>
-<hr>
-</section>
-<section id="reschedule-your-appointment" class="level2">
-<h2 class="anchored" data-anchor-id="reschedule-your-appointment">Reschedule Your Appointment</h2>
-<section id="rescheduling-policy" class="level3">
-<h3 class="anchored" data-anchor-id="rescheduling-policy">Rescheduling Policy</h3>
-<ul>
-<li>✅ <strong>Can reschedule</strong>: Up to 24 hours before appointment</li>
-<li>❌ <strong>Cannot reschedule</strong>: Less than 24 hours before appointment</li>
-<li>⏰ <strong>Notice required</strong>: 24 hours in advance</li>
-</ul>
-</section>
-<section id="how-to-reschedule" class="level3">
-<h3 class="anchored" data-anchor-id="how-to-reschedule">How to Reschedule</h3>
-<section id="step-1-contact-us" class="level4">
-<h4 class="anchored" data-anchor-id="step-1-contact-us">Step 1: Contact Us</h4>
-<p>Send your request within 24 hours of your appointment:</p>
-<p><strong>Option A: Email</strong></p>
-<pre><code>To: appointments@epipulse.org
-Subject: Reschedule Appointment - [Your Appointment ID]
-
-Dear EpiPulse Team,
-I would like to reschedule my appointment.
-
-Current Appointment:
-- Appointment ID: [From your confirmation]
-- Date: [Current date]
-- Time: [Current time]
-- Doctor: [Doctor name]
-
-Preferred New Date: [Your preference]
-Preferred New Time: [Your preference]
-Reason (Optional): [Why you're rescheduling]
-
-Contact Details:
-- Name: [Your name]
-- Phone: [Your phone]
-- Email: [Your email]
-
-Thank you,
-[Your Name]</code></pre>
-<p><strong>Option B: Phone/WhatsApp</strong> - Call: [Your phone number] - WhatsApp: [Your WhatsApp number] - Say: “I want to reschedule my appointment” (ID: [Your ID]) - Provide new preferred dates/times</p>
-<p><strong>Option C: Online Form</strong> <a href="https://forms.google.com/YOUR_FORM_ID">Reschedule Request Form</a></p>
-</section>
+#### Step 1: Notify Us
+**Email:**</code></pre>
+<p>To: appointments@epipulse.org Subject: Cancel Appointment - [Your Appointment ID]</p>
+<p>I would like to cancel my appointment. Appointment ID: [Your ID] Date: [Appointment date] Reason (Optional): [Your reason]</p>
+<p>Thank you, [Your Name] [Your Phone] ```</p>
+<p><strong>Phone/WhatsApp:</strong> - Call or message: [Your phone number] - Say: “I want to cancel my appointment” - Mention your Appointment ID</p>
 <section id="step-2-confirmation" class="level4">
 <h4 class="anchored" data-anchor-id="step-2-confirmation">Step 2: Confirmation</h4>
-<ul>
-<li>You’ll receive confirmation of new appointment</li>
-<li>New Google Meet link will be sent</li>
-<li>Update calendar with new date/time</li>
-</ul>
-<hr>
-</section>
-</section>
-</section>
-<section id="cancel-your-appointment" class="level2">
-<h2 class="anchored" data-anchor-id="cancel-your-appointment">Cancel Your Appointment</h2>
-<section id="cancellation-policy" class="level3">
-<h3 class="anchored" data-anchor-id="cancellation-policy">Cancellation Policy</h3>
-<ul>
-<li>✅ <strong>Can cancel</strong>: Up to 24 hours before appointment</li>
-<li>❌ <strong>Cannot cancel</strong>: Less than 24 hours before appointment</li>
-<li>⚠️ <strong>Repeated cancellations</strong>: May result in booking restrictions</li>
-</ul>
-</section>
-<section id="how-to-cancel" class="level3">
-<h3 class="anchored" data-anchor-id="how-to-cancel">How to Cancel</h3>
-<section id="step-1-notify-us" class="level4">
-<h4 class="anchored" data-anchor-id="step-1-notify-us">Step 1: Notify Us</h4>
-<p><strong>Email:</strong></p>
-<pre><code>To: appointments@epipulse.org
-Subject: Cancel Appointment - [Your Appointment ID]
-
-I would like to cancel my appointment.
-Appointment ID: [Your ID]
-Date: [Appointment date]
-Reason (Optional): [Your reason]
-
-Thank you,
-[Your Name]
-[Your Phone]</code></pre>
-<p><strong>Phone/WhatsApp:</strong> - Call or message: [Your phone number] - Say: “I want to cancel my appointment” - Mention your Appointment ID</p>
-</section>
-<section id="step-2-confirmation-1" class="level4">
-<h4 class="anchored" data-anchor-id="step-2-confirmation-1">Step 2: Confirmation</h4>
 <ul>
 <li>You’ll receive cancellation confirmation</li>
 <li>No charge if cancelled within 24 hours</li>
 <li>You can rebook anytime</li>
 </ul>
 <hr>
-</section>
 </section>
 </section>
 <section id="no-show-policy" class="level2">
@@ -668,7 +562,7 @@ Thank you,
 </section>
 <section id="ready-to-book" class="level2">
 <h2 class="anchored" data-anchor-id="ready-to-book">Ready to Book?</h2>
-<p><a href="book_appointment.qmd"><strong>Book Your Appointment</strong></a></p>
+<p><a href="./book_appointment.html"><strong>Book Your Appointment</strong></a></p>
 <p><a href="./online_consultations.html"><strong>Join Your Consultation</strong></a></p>
 <hr>
 <p><strong>Your appointment management made simple. Your health, our priority.</strong></p>

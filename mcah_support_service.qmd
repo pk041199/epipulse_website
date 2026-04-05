@@ -1,0 +1,102 @@
+---
+title: "Maternal, Child & Adolescent Health Support"
+description: "Support for maternal, child, and adolescent health programs through evidence-based interventions and health systems strengthening."
+---
+
+# Maternal, Child & Adolescent Health Support
+
+EpiPulse provides comprehensive support for improving maternal, child, and adolescent health outcomes through research-backed implementation.
+
+## Service Areas
+
+### Maternal Health Programs
+
+**Antenatal Care Enhancement**
+- Care protocol development
+- Health worker training
+- Pregnant woman risk screening
+- Nutrition and counseling support
+- Complication identification and referral
+
+**Maternal Mortality & Morbidity Reduction**
+- Cause of death audits
+- Quality improvement initiatives
+- Emergency obstetric care strengthening
+- Institutional delivery promotion
+- Postpartum care protocols
+
+**Maternal Mental Health**
+- Perinatal depression screening
+- Mental health support integration
+- Psychosocial counseling frameworks
+
+### Child Health Programs
+
+**Newborn Care**
+- Facility-based newborn care strengthening
+- Home-based newborn care protocols
+- Infection prevention measures
+- Breastfeeding support
+- Early detection of complications
+
+**Childhood Illness Management**
+- Integrated Management of Neonatal and Childhood Illness (IMNCI) training
+- Common illness protocols
+- Malnutrition screening and management
+- Immunization strengthening
+
+**Child Health Surveillance**
+- Growth and development monitoring
+- Nutrition assessment tools
+- Health facility capacity assessment
+- Mortality data review and action
+
+### Adolescent Health
+
+**Comprehensive Adolescent Health**
+- Reproductive health education
+- Menstrual health and hygiene
+- Mental health and substance use prevention
+- School health program support
+- Life skills training
+
+**Youth Engagement**
+- Peer education models
+- Youth leadership development
+- Community participation frameworks
+
+## Implementation Support
+
+- **Program Design**: Evidence-based frameworks
+- **Health Worker Training**: Competency-based training
+- **Facility Strengthening**: Supply chains, equipment, infrastructure
+- **Community Engagement**: Local ownership and participation
+- **Monitoring & Evaluation**: Real-time data for improvements
+- **Research**: Field studies and implementation science
+
+## Focus on Equity
+
+- Urban slum health initiatives
+- Tribal and rural populations
+- Marginalized communities
+- Gender equity in health access
+
+## Who We Work With
+
+- Government health departments
+- Primary health centers
+- Private health providers
+- Community-based organizations
+- Schools and educational institutions
+- Adolescent groups
+
+## Getting Support
+
+For maternal, child, and adolescent health program support:
+
+**Email**: programs@epipulse.org  
+**Contact**: [Let's Collaborate](contact.qmd)
+
+---
+
+*Our approach is evidence-based, community-centered, and focused on strengthening health systems for lasting impact.*

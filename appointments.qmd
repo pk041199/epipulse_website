@@ -1,103 +1,29 @@
 ---
 title: "Manage Your Appointments"
-description: "Track, reschedule, or cancel your EpiPulse healthcare appointment. View appointment status and consultation details."
+description: "View, reschedule, or cancel your EpiPulse appointments."
 ---
 
 # Manage Your Appointments
 
-Track your healthcare appointments with EpiPulse. Check status, reschedule, or get support for your bookings.
+### View or Manage Your Appointment
 
-## Check Your Appointment Status
+To check your appointment status, reschedule, or cancel:
 
-To view your appointment details, use one of these methods:
+**[Go to Appointment Management](https://epipulse-appointments.railway.app/)**
 
-### Method 1: Email Confirmation
-- Look for your appointment confirmation email
-- Contains all appointment details
-- Shows Google Meet link
-- Includes appointment ID
+---
 
-### Method 2: SMS Confirmation
-- Check SMS sent to your registered phone number
-- Contains appointment date, time, and doctor name
-- Has Meet link or code
+## Appointment Support
 
-### Method 3: Contact Us
+If you need help with your appointment:
+
 - **Email**: appointments@epipulse.org
-- **Phone**: [Your phone number]
-- **WhatsApp**: [Your WhatsApp number]
-- **Hours**: 9 AM - 6 PM, Monday to Saturday
+- **Phone**: [Your Contact Number]
+- **WhatsApp**: [Your WhatsApp Number]
 
 ---
 
-## Your Appointment Information
-
-When you book with us, you'll receive:
-
-```
-═══════════════════════════════════
-     APPOINTMENT CONFIRMATION
-═══════════════════════════════════
-
-Appointment ID: EPP-2024-001234
-Patient Name: [Your Name]
-Registered Phone: [Your Phone]
-Registered Email: [Your Email]
-
-SERVICE DETAILS
-Service Type: General OPD
-Doctor: Dr. [Doctor Name]
-Consultation Fee: ₹200
-
-APPOINTMENT SCHEDULE
-Date: [Appointment Date]
-Time: [Time Slot]
-Duration: 30 minutes
-Location: Online (Google Meet)
-
-GOOGLE MEET DETAILS
-Meeting Link: https://meet.google.com/xxx-xxxx-xxx
-Meeting Code: [Code]
-Password: [If required]
-
-BEFORE YOUR APPOINTMENT
-- Test your internet connection
-- Prepare any medical documents
-- Join 5-10 minutes early
-- Ensure private, quiet space
-
-IMPORTANT REMINDERS
-- Cancellation: Up to 24 hours before
-- No-show policy applies
-- Digital prescription will be emailed
-- Keep this confirmation safe
-
-═══════════════════════════════════
-```
-
----
-
-## Reschedule Your Appointment
-
-### Rescheduling Policy
-- ✅ **Can reschedule**: Up to 24 hours before appointment
-- ❌ **Cannot reschedule**: Less than 24 hours before appointment
-- ⏰ **Notice required**: 24 hours in advance
-
-### How to Reschedule
-
-#### Step 1: Contact Us
-Send your request within 24 hours of your appointment:
-
-**Option A: Email**
-```
-To: appointments@epipulse.org
-Subject: Reschedule Appointment - [Your Appointment ID]
-
-Dear EpiPulse Team,
-I would like to reschedule my appointment.
-
-Current Appointment:
+**For booking a new appointment:** [Book Appointment](book_appointment.qmd)
 - Appointment ID: [From your confirmation]
 - Date: [Current date]
 - Time: [Current time]

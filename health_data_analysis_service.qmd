@@ -1,0 +1,78 @@
+---
+title: "Health Data Analysis & Research Support"
+description: "Leverage high-quality health data analysis and research methodologies for evidence-based decision-making in public health programs."
+---
+
+# Health Data Analysis & Research Support
+
+EpiPulse provides comprehensive health data analysis and research support services to strengthen public health evidence generation and implementation.
+
+## Our Approach
+
+We combine rigorous scientific methods with practical implementation tools to help organizations and communities access actionable health intelligence.
+
+## Services Offered
+
+### Epidemiological Data Analysis
+- Disease surveillance and trend analysis
+- Risk factor identification and quantification
+- Outbreak investigation and response support
+- Population health needs assessment
+- Communicable and non-communicable disease analysis
+
+### Research Methodology Support
+- Study design and protocol development
+- Sample size calculation and statistical planning
+- Data collection tool design
+- Ethical research frameworks
+- Implementation research guidance
+
+### Data Visualization & Dashboards
+- Interactive health dashboards
+- Disease surveillance dashboards
+- Program monitoring dashboards
+- Custom analytics visualizations
+- Real-time health data tracking
+
+### Health Information Systems
+- Data quality assurance and improvement
+- Health management information systems (HMIS) optimization
+- Data standardization and interoperability
+- Health data security and privacy compliance
+- Digital health system implementation
+
+## Tools & Resources
+
+### R-based Analytics Platform
+Access our interactive health data analysis platform for:
+- Disease burden estimation
+- Risk prediction modeling
+- Intervention impact assessment
+- Health equity analysis
+
+[Explore Data Analysis Tool](https://drpkepipulse1.shinyapps.io/iapgrowthr/)
+
+### Educational Resources
+- Statistical methods tutorials
+- Public health data analysis guides
+- R programming for health professionals
+- Data visualization best practices
+
+## Who Can Benefit?
+
+- **Public Health Departments**: Disease surveillance, program monitoring
+- **NGOs & CSOs**: Program evaluation and impact assessment
+- **Academic Institutions**: Research methodology support
+- **Health Facilities**: Health management information systems
+- **Community Organizations**: Data-driven decision making
+
+## Getting Started
+
+Contact us for:
+- Consultation on your data analysis needs
+- Custom research methodology design
+- Health data system implementation support
+- Training and capacity building
+
+**Email**: research@epipulse.org  
+**Connect**: [Contact Us](contact.qmd)

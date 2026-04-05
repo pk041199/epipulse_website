@@ -1,0 +1,62 @@
+---
+title: "Book Your Appointment"
+description: "Schedule a consultation with EpiPulse professionals through our secure online booking system."
+---
+
+# Book Your Appointment
+
+Schedule a consultation with EpiPulse professionals through our online booking platform.
+
+## Quick Booking Guide
+
+### To Schedule Your Appointment:
+
+1. **Click the Booking Link** below
+2. **Select Your Service** - Choose the type of consultation you need
+3. **Pick Your Time** - Browse available slots
+4. **Confirm Details** - Enter your information
+5. **Get Confirmation** - Receive details via email/SMS
+
+[**Open Appointment Booking System**](https://epipulse-appointments.railway.app/)
+
+---
+
+## What to Expect
+
+### Before Your Appointment
+- Receive appointment confirmation with date, time, and provider details
+- Get Google Meet link if it's an online consultation
+- Choose a quiet, private space for your consultation
+- Have any relevant medical documents ready
+
+### During Your Appointment
+- Connect on time via the provided link (for online consultations)
+- Discuss your health concerns with the professional
+- Receive guidance and recommendations
+- Ask clarifying questions
+
+### After Your Appointment
+- Receive digital prescription/recommendations via email
+- Get follow-up instructions
+- Get referrals if needed
+- Appointment summary and notes
+
+---
+
+## Common Questions
+
+**Can I reschedule or cancel?**  
+Yes, up to 24 hours before your appointment time. Contact us or use the booking system.
+
+**What if it's an online consultation?**  
+You'll receive a Google Meet link. Join at your scheduled time from any device with internet.
+
+**Will my information be kept private?**  
+Yes, all consultations are confidential and secure.
+
+**Need Help?**  
+Contact: appointments@epipulse.org
+
+---
+
+**[Start Booking Now](https://epipulse-appointments.railway.app/)**

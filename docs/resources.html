@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Comprehensive health education resources, guidelines, and tools for preventive care and disease management.">
+<meta name="description" content="Evidence-based health resources, learning materials, and research support tools for health professionals and communities.">
 
-<title>Health Resources – EpiPulse</title>
+<title>Resources &amp; Learning Materials – EpiPulse</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -103,33 +103,44 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./programs.html"> 
 <span class="menu-text">Programs</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./services.html"> 
-<span class="menu-text">Services</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-services" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Services</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-services">    
+        <li>
+    <a class="dropdown-item" href="./health_data_analysis_service.html">
+ <span class="dropdown-text">Health Data Analysis &amp; Research</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./ncd_support_service.html">
+ <span class="dropdown-text">NCD Prevention &amp; Management</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mcah_support_service.html">
+ <span class="dropdown-text">Maternal, Child &amp; Adolescent Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./environmental_health_service.html">
+ <span class="dropdown-text">Environmental &amp; Occupational Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./education_capacity_service.html">
+ <span class="dropdown-text">Education &amp; Capacity Building</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-appointments" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Appointments</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-appointments">    
         <li>
-    <a class="dropdown-item" href="./book_appointment.qmd">
+    <a class="dropdown-item" href="https://epipulse-appointments.railway.app/">
  <span class="dropdown-text">Book Appointment</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./appointments.html">
- <span class="dropdown-text">Manage Appointments</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./online_consultations.html">
- <span class="dropdown-text">Online Consultations</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./caregrid.html"> 
-<span class="menu-text">CareGrid App</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./impact.html"> 
 <span class="menu-text">Impact</span></a>
@@ -148,16 +159,24 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
+    <a class="dropdown-item" href="./caregrid.html">
+ <span class="dropdown-text">CareGrid App</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./public_health_data_analysis.html">
  <span class="dropdown-text">Resource Hub</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./ai_with_r.html">
- <span class="dropdown-text">AI-assisted Data Cleaning Workflow</span></a>
+ <span class="dropdown-text">AI Workflow for Data Cleaning</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://drpkepipulse1.shinyapps.io/iapgrowthr/">
+ <span class="dropdown-text">Health Data Analysis Tool</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./resources.html">
- <span class="dropdown-text">Health Resources</span></a>
+ <span class="dropdown-text">Health Reference Materials</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./srma_tutorial.html">
@@ -165,11 +184,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./railway_setup.html">
- <span class="dropdown-text">Railway Deployment Guide</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./public_health_data_analaysis.html">
- <span class="dropdown-text">Legacy Technical Draft</span></a>
+ <span class="dropdown-text">Technical Documentation</span></a>
   </li>  
     </ul>
   </li>
@@ -203,48 +218,39 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#health-resources" id="toc-health-resources" class="nav-link active" data-scroll-target="#health-resources">Health Resources</a>
+  <li><a href="#resources-learning-materials" id="toc-resources-learning-materials" class="nav-link active" data-scroll-target="#resources-learning-materials">Resources &amp; Learning Materials</a>
   <ul class="collapse">
-  <li><a href="#preventive-care" id="toc-preventive-care" class="nav-link" data-scroll-target="#preventive-care">Preventive Care</a>
+  <li><a href="#health-data-analysis-tools" id="toc-health-data-analysis-tools" class="nav-link" data-scroll-target="#health-data-analysis-tools">Health Data Analysis Tools</a>
+  <ul class="collapse">
+  <li><a href="#interactive-health-analytics-platform" id="toc-interactive-health-analytics-platform" class="nav-link" data-scroll-target="#interactive-health-analytics-platform">Interactive Health Analytics Platform</a></li>
+  </ul></li>
+  <li><a href="#research-technical-resources" id="toc-research-technical-resources" class="nav-link" data-scroll-target="#research-technical-resources">Research &amp; Technical Resources</a>
+  <ul class="collapse">
+  <li><a href="#public-health-data-analysis" id="toc-public-health-data-analysis" class="nav-link" data-scroll-target="#public-health-data-analysis">Public Health Data Analysis</a></li>
+  <li><a href="#data-cleaning-preparation-workflow" id="toc-data-cleaning-preparation-workflow" class="nav-link" data-scroll-target="#data-cleaning-preparation-workflow">Data Cleaning &amp; Preparation Workflow</a></li>
+  <li><a href="#systematic-review-meta-analysis-tutorial" id="toc-systematic-review-meta-analysis-tutorial" class="nav-link" data-scroll-target="#systematic-review-meta-analysis-tutorial">Systematic Review &amp; Meta-Analysis Tutorial</a></li>
+  <li><a href="#technical-implementation-guides" id="toc-technical-implementation-guides" class="nav-link" data-scroll-target="#technical-implementation-guides">Technical Implementation Guides</a></li>
+  </ul></li>
+  <li><a href="#health-reference-materials" id="toc-health-reference-materials" class="nav-link" data-scroll-target="#health-reference-materials">Health Reference Materials</a>
   <ul class="collapse">
   <li><a href="#ncd-prevention-guidelines" id="toc-ncd-prevention-guidelines" class="nav-link" data-scroll-target="#ncd-prevention-guidelines">NCD Prevention Guidelines</a></li>
-  <li><a href="#immunization-schedules" id="toc-immunization-schedules" class="nav-link" data-scroll-target="#immunization-schedules">Immunization Schedules</a></li>
+  <li><a href="#maternal-child-adolescent-health" id="toc-maternal-child-adolescent-health" class="nav-link" data-scroll-target="#maternal-child-adolescent-health">Maternal, Child &amp; Adolescent Health</a></li>
+  <li><a href="#environmental-occupational-health" id="toc-environmental-occupational-health" class="nav-link" data-scroll-target="#environmental-occupational-health">Environmental &amp; Occupational Health</a></li>
+  <li><a href="#public-health-data-surveillance" id="toc-public-health-data-surveillance" class="nav-link" data-scroll-target="#public-health-data-surveillance">Public Health Data &amp; Surveillance</a></li>
   </ul></li>
-  <li><a href="#disease-management" id="toc-disease-management" class="nav-link" data-scroll-target="#disease-management">Disease Management</a>
+  <li><a href="#learning-development" id="toc-learning-development" class="nav-link" data-scroll-target="#learning-development">Learning &amp; Development</a>
   <ul class="collapse">
-  <li><a href="#diabetes-resources" id="toc-diabetes-resources" class="nav-link" data-scroll-target="#diabetes-resources">Diabetes Resources</a></li>
-  <li><a href="#hypertension-management" id="toc-hypertension-management" class="nav-link" data-scroll-target="#hypertension-management">Hypertension Management</a></li>
-  <li><a href="#respiratory-health" id="toc-respiratory-health" class="nav-link" data-scroll-target="#respiratory-health">Respiratory Health</a></li>
+  <li><a href="#for-professionals" id="toc-for-professionals" class="nav-link" data-scroll-target="#for-professionals">For Professionals</a></li>
+  <li><a href="#for-communities" id="toc-for-communities" class="nav-link" data-scroll-target="#for-communities">For Communities</a></li>
   </ul></li>
-  <li><a href="#maternal-and-child-health" id="toc-maternal-and-child-health" class="nav-link" data-scroll-target="#maternal-and-child-health">Maternal and Child Health</a>
+  <li><a href="#quick-reference-guides" id="toc-quick-reference-guides" class="nav-link" data-scroll-target="#quick-reference-guides">Quick Reference Guides</a></li>
+  <li><a href="#partner-resources" id="toc-partner-resources" class="nav-link" data-scroll-target="#partner-resources">Partner Resources</a></li>
+  <li><a href="#getting-support" id="toc-getting-support" class="nav-link" data-scroll-target="#getting-support">Getting Support</a>
   <ul class="collapse">
-  <li><a href="#pregnancy-care" id="toc-pregnancy-care" class="nav-link" data-scroll-target="#pregnancy-care">Pregnancy Care</a></li>
-  <li><a href="#child-health" id="toc-child-health" class="nav-link" data-scroll-target="#child-health">Child Health</a></li>
-  </ul></li>
-  <li><a href="#mental-health-and-deaddiction" id="toc-mental-health-and-deaddiction" class="nav-link" data-scroll-target="#mental-health-and-deaddiction">Mental Health and Deaddiction</a>
-  <ul class="collapse">
-  <li><a href="#mental-health-resources" id="toc-mental-health-resources" class="nav-link" data-scroll-target="#mental-health-resources">Mental Health Resources</a></li>
-  <li><a href="#addiction-recovery" id="toc-addiction-recovery" class="nav-link" data-scroll-target="#addiction-recovery">Addiction Recovery</a></li>
-  </ul></li>
-  <li><a href="#covid-19-resources" id="toc-covid-19-resources" class="nav-link" data-scroll-target="#covid-19-resources">COVID-19 Resources</a>
-  <ul class="collapse">
-  <li><a href="#prevention" id="toc-prevention" class="nav-link" data-scroll-target="#prevention">Prevention</a></li>
-  <li><a href="#management" id="toc-management" class="nav-link" data-scroll-target="#management">Management</a></li>
-  </ul></li>
-  <li><a href="#health-calculators-and-tools" id="toc-health-calculators-and-tools" class="nav-link" data-scroll-target="#health-calculators-and-tools">Health Calculators and Tools</a>
-  <ul class="collapse">
-  <li><a href="#bmi-calculator" id="toc-bmi-calculator" class="nav-link" data-scroll-target="#bmi-calculator">BMI Calculator</a></li>
-  <li><a href="#calorie-counter" id="toc-calorie-counter" class="nav-link" data-scroll-target="#calorie-counter">Calorie Counter</a></li>
-  <li><a href="#water-intake-calculator" id="toc-water-intake-calculator" class="nav-link" data-scroll-target="#water-intake-calculator">Water Intake Calculator</a></li>
-  </ul></li>
-  <li><a href="#educational-materials" id="toc-educational-materials" class="nav-link" data-scroll-target="#educational-materials">Educational Materials</a>
-  <ul class="collapse">
-  <li><a href="#infographics" id="toc-infographics" class="nav-link" data-scroll-target="#infographics">Infographics</a></li>
-  <li><a href="#videos" id="toc-videos" class="nav-link" data-scroll-target="#videos">Videos</a></li>
   <li><a href="#articles" id="toc-articles" class="nav-link" data-scroll-target="#articles">Articles</a></li>
   </ul></li>
   <li><a href="#downloadable-resources" id="toc-downloadable-resources" class="nav-link" data-scroll-target="#downloadable-resources">Downloadable Resources</a></li>
-  <li><a href="#partner-resources" id="toc-partner-resources" class="nav-link" data-scroll-target="#partner-resources">Partner Resources</a></li>
+  <li><a href="#partner-resources-1" id="toc-partner-resources-1" class="nav-link" data-scroll-target="#partner-resources-1">Partner Resources</a></li>
   <li><a href="#contribute-resources" id="toc-contribute-resources" class="nav-link" data-scroll-target="#contribute-resources">Contribute Resources</a></li>
   </ul></li>
   </ul>
@@ -255,12 +261,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Health Resources</h1>
+<h1 class="title">Resources &amp; Learning Materials</h1>
 </div>
 
 <div>
   <div class="description">
-    Comprehensive health education resources, guidelines, and tools for preventive care and disease management.
+    Evidence-based health resources, learning materials, and research support tools for health professionals and communities.
   </div>
 </div>
 
@@ -277,148 +283,129 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="health-resources" class="level1">
-<h1>Health Resources</h1>
-<p>Access our collection of evidence-based health resources designed to empower individuals and communities with knowledge for better health outcomes.</p>
-<section id="preventive-care" class="level2">
-<h2 class="anchored" data-anchor-id="preventive-care">Preventive Care</h2>
+<section id="resources-learning-materials" class="level1">
+<h1>Resources &amp; Learning Materials</h1>
+<p>Explore our collection of research-backed resources, tools, and learning materials to support public health practice and evidence-based decision-making.</p>
+<section id="health-data-analysis-tools" class="level2">
+<h2 class="anchored" data-anchor-id="health-data-analysis-tools">Health Data Analysis Tools</h2>
+<section id="interactive-health-analytics-platform" class="level3">
+<h3 class="anchored" data-anchor-id="interactive-health-analytics-platform">Interactive Health Analytics Platform</h3>
+<p>Access our interactive data analysis and visualization tool for disease burden estimation, risk analysis, and health trend monitoring.</p>
+<p><a href="https://drpkepipulse1.shinyapps.io/iapgrowthr/"><strong>Open Health Data Analysis Tool</strong></a></p>
+<hr>
+</section>
+</section>
+<section id="research-technical-resources" class="level2">
+<h2 class="anchored" data-anchor-id="research-technical-resources">Research &amp; Technical Resources</h2>
+<section id="public-health-data-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="public-health-data-analysis">Public Health Data Analysis</h3>
+<p>Comprehensive guides and methodologies for health data analysis, research design, and evidence generation for public health programs.</p>
+<p><a href="./public_health_data_analysis.html">Public Health Data Analysis Resource Hub</a></p>
+</section>
+<section id="data-cleaning-preparation-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="data-cleaning-preparation-workflow">Data Cleaning &amp; Preparation Workflow</h3>
+<p>Learn systematic approaches to health data cleaning, validation, and preparation using AI-assisted tools and R programming.</p>
+<p><a href="./ai_with_r.html">AI-Assisted Data Cleaning Workflow</a></p>
+</section>
+<section id="systematic-review-meta-analysis-tutorial" class="level3">
+<h3 class="anchored" data-anchor-id="systematic-review-meta-analysis-tutorial">Systematic Review &amp; Meta-Analysis Tutorial</h3>
+<p>Step-by-step guidance for conducting systematic reviews and meta-analyses in public health research.</p>
+<p><a href="./srma_tutorial.html">SRMA Tutorial</a></p>
+</section>
+<section id="technical-implementation-guides" class="level3">
+<h3 class="anchored" data-anchor-id="technical-implementation-guides">Technical Implementation Guides</h3>
+<p>Documentation for technical setup, deployment, and systems integration.</p>
+<p><a href="./railway_setup.html">Technical Documentation</a></p>
+<hr>
+</section>
+</section>
+<section id="health-reference-materials" class="level2">
+<h2 class="anchored" data-anchor-id="health-reference-materials">Health Reference Materials</h2>
 <section id="ncd-prevention-guidelines" class="level3">
 <h3 class="anchored" data-anchor-id="ncd-prevention-guidelines">NCD Prevention Guidelines</h3>
 <ul>
-<li><a href="https://www.who.int/health-topics/diabetes">Diabetes Prevention</a></li>
-<li><a href="https://www.who.int/health-topics/hypertension">Hypertension Management</a></li>
-<li><a href="https://www.who.int/health-topics/cardiovascular-diseases">Cardiovascular Health</a></li>
+<li>Evidence-based approaches to Non-Communicable Disease prevention</li>
+<li>Risk screening and assessment tools</li>
+<li>Intervention frameworks</li>
+<li>Monitoring and evaluation methods</li>
 </ul>
 </section>
-<section id="immunization-schedules" class="level3">
-<h3 class="anchored" data-anchor-id="immunization-schedules">Immunization Schedules</h3>
+<section id="maternal-child-adolescent-health" class="level3">
+<h3 class="anchored" data-anchor-id="maternal-child-adolescent-health">Maternal, Child &amp; Adolescent Health</h3>
 <ul>
-<li><a href="https://www.mohfw.gov.in/">Indian Immunization Schedule</a></li>
-<li><a href="https://www.mohfw.gov.in/">COVID-19 Vaccination Updates</a></li>
+<li>Best practice protocols for MCH programs</li>
+<li>Quality improvement frameworks</li>
+<li>Health system strengthening approaches</li>
 </ul>
 </section>
-</section>
-<section id="disease-management" class="level2">
-<h2 class="anchored" data-anchor-id="disease-management">Disease Management</h2>
-<section id="diabetes-resources" class="level3">
-<h3 class="anchored" data-anchor-id="diabetes-resources">Diabetes Resources</h3>
+<section id="environmental-occupational-health" class="level3">
+<h3 class="anchored" data-anchor-id="environmental-occupational-health">Environmental &amp; Occupational Health</h3>
 <ul>
-<li>Blood sugar monitoring guides</li>
-<li>Dietary recommendations</li>
-<li>Exercise plans for diabetics</li>
-<li>Medication adherence tips</li>
+<li>Environmental assessment methodologies</li>
+<li>Occupational health surveillance</li>
+<li>Safety protocols and guidelines</li>
 </ul>
 </section>
-<section id="hypertension-management" class="level3">
-<h3 class="anchored" data-anchor-id="hypertension-management">Hypertension Management</h3>
+<section id="public-health-data-surveillance" class="level3">
+<h3 class="anchored" data-anchor-id="public-health-data-surveillance">Public Health Data &amp; Surveillance</h3>
 <ul>
-<li>Home blood pressure monitoring</li>
-<li>DASH diet guidelines</li>
-<li>Stress management techniques</li>
-<li>Medication information</li>
+<li>Disease surveillance frameworks</li>
+<li>Health information systems</li>
+<li>Data quality standards</li>
+<li>Epidemiological analysis methods</li>
 </ul>
+<hr>
 </section>
-<section id="respiratory-health" class="level3">
-<h3 class="anchored" data-anchor-id="respiratory-health">Respiratory Health</h3>
+</section>
+<section id="learning-development" class="level2">
+<h2 class="anchored" data-anchor-id="learning-development">Learning &amp; Development</h2>
+<section id="for-professionals" class="level3">
+<h3 class="anchored" data-anchor-id="for-professionals">For Professionals</h3>
 <ul>
-<li>Asthma action plans</li>
-<li>COPD management</li>
-<li>Smoking cessation resources</li>
+<li>Training modules on public health practice</li>
+<li>Research methodology courses</li>
+<li>Implementation science guides</li>
+<li>Capacity building resources</li>
 </ul>
+<p><strong>For more:</strong> <a href="./education_capacity_service.html">Education &amp; Capacity Building</a></p>
 </section>
-</section>
-<section id="maternal-and-child-health" class="level2">
-<h2 class="anchored" data-anchor-id="maternal-and-child-health">Maternal and Child Health</h2>
-<section id="pregnancy-care" class="level3">
-<h3 class="anchored" data-anchor-id="pregnancy-care">Pregnancy Care</h3>
+<section id="for-communities" class="level3">
+<h3 class="anchored" data-anchor-id="for-communities">For Communities</h3>
 <ul>
-<li>Antenatal care checklists</li>
-<li>Nutrition during pregnancy</li>
-<li>Warning signs and when to seek help</li>
+<li>Health awareness materials</li>
+<li>Preventive care guidelines</li>
+<li>Self-management resources</li>
+<li>Community health promotion</li>
 </ul>
+<hr>
 </section>
-<section id="child-health" class="level3">
-<h3 class="anchored" data-anchor-id="child-health">Child Health</h3>
+</section>
+<section id="quick-reference-guides" class="level2">
+<h2 class="anchored" data-anchor-id="quick-reference-guides">Quick Reference Guides</h2>
 <ul>
-<li>Growth monitoring charts</li>
-<li>Common childhood illnesses</li>
-<li>Developmental milestones</li>
-<li>Pediatric vaccination reminders</li>
+<li><strong>Preventive Care Checklists</strong>: Evidence-based prevention protocols</li>
+<li><strong>Program Monitoring Tools</strong>: Quality assurance and evaluation frameworks</li>
+<li><strong>Health Education Materials</strong>: Community-friendly learning resources</li>
+<li><strong>Implementation Toolkits</strong>: Practical guidance for program delivery</li>
 </ul>
+<hr>
 </section>
-</section>
-<section id="mental-health-and-deaddiction" class="level2">
-<h2 class="anchored" data-anchor-id="mental-health-and-deaddiction">Mental Health and Deaddiction</h2>
-<section id="mental-health-resources" class="level3">
-<h3 class="anchored" data-anchor-id="mental-health-resources">Mental Health Resources</h3>
+<section id="partner-resources" class="level2">
+<h2 class="anchored" data-anchor-id="partner-resources">Partner Resources</h2>
 <ul>
-<li>Stress management techniques</li>
-<li>Anxiety and depression resources</li>
-<li>Suicide prevention helplines</li>
+<li><a href="https://www.who.int/">WHO Health Topics &amp; Guidelines</a></li>
+<li><a href="https://www.mohfw.gov.in/">Ministry of Health and Family Welfare, India</a></li>
+<li><a href="https://www.cdc.gov/">CDC Public Health Resources</a></li>
+<li><a href="https://niph.gov.in/">National Institute of Public Health</a></li>
 </ul>
+<hr>
 </section>
-<section id="addiction-recovery" class="level3">
-<h3 class="anchored" data-anchor-id="addiction-recovery">Addiction Recovery</h3>
-<ul>
-<li>Understanding addiction</li>
-<li>Withdrawal management</li>
-<li>Relapse prevention strategies</li>
-<li>Support group information</li>
-</ul>
-</section>
-</section>
-<section id="covid-19-resources" class="level2">
-<h2 class="anchored" data-anchor-id="covid-19-resources">COVID-19 Resources</h2>
-<section id="prevention" class="level3">
-<h3 class="anchored" data-anchor-id="prevention">Prevention</h3>
-<ul>
-<li>Mask usage guidelines</li>
-<li>Hand hygiene protocols</li>
-<li>Social distancing measures</li>
-</ul>
-</section>
-<section id="management" class="level3">
-<h3 class="anchored" data-anchor-id="management">Management</h3>
-<ul>
-<li>Home isolation guidelines</li>
-<li>Symptom tracking</li>
-<li>When to seek medical help</li>
-</ul>
-</section>
-</section>
-<section id="health-calculators-and-tools" class="level2">
-<h2 class="anchored" data-anchor-id="health-calculators-and-tools">Health Calculators and Tools</h2>
-<section id="bmi-calculator" class="level3">
-<h3 class="anchored" data-anchor-id="bmi-calculator">BMI Calculator</h3>
-<p>Calculate your Body Mass Index to assess weight status.</p>
-</section>
-<section id="calorie-counter" class="level3">
-<h3 class="anchored" data-anchor-id="calorie-counter">Calorie Counter</h3>
-<p>Track daily caloric intake for weight management.</p>
-</section>
-<section id="water-intake-calculator" class="level3">
-<h3 class="anchored" data-anchor-id="water-intake-calculator">Water Intake Calculator</h3>
-<p>Determine your daily water requirements.</p>
-</section>
-</section>
-<section id="educational-materials" class="level2">
-<h2 class="anchored" data-anchor-id="educational-materials">Educational Materials</h2>
-<section id="infographics" class="level3">
-<h3 class="anchored" data-anchor-id="infographics">Infographics</h3>
-<ul>
-<li>NCD risk factors</li>
-<li>Healthy eating plate</li>
-<li>Exercise recommendations</li>
-</ul>
-</section>
-<section id="videos" class="level3">
-<h3 class="anchored" data-anchor-id="videos">Videos</h3>
-<ul>
-<li>Health education webinars</li>
-<li>Exercise demonstrations</li>
-<li>Cooking healthy meals</li>
-</ul>
-</section>
+<section id="getting-support" class="level2">
+<h2 class="anchored" data-anchor-id="getting-support">Getting Support</h2>
+<p>Looking for specific resources or need customized training materials?</p>
+<p><strong>Contact us:</strong> research@epipulse.org or visit <a href="./contact.html">Contact Page</a></p>
+<hr>
+<p><em>Our resources are designed to be evidence-based, practical, and focused on strengthening public health practice and systems.</em></p>
 <section id="articles" class="level3">
 <h3 class="anchored" data-anchor-id="articles">Articles</h3>
 <ul>
@@ -432,8 +419,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="downloadable-resources">Downloadable Resources</h2>
 <p><a href="health_toolkit.pdf">Download our comprehensive health toolkit (PDF)</a></p>
 </section>
-<section id="partner-resources" class="level2">
-<h2 class="anchored" data-anchor-id="partner-resources">Partner Resources</h2>
+<section id="partner-resources-1" class="level2">
+<h2 class="anchored" data-anchor-id="partner-resources-1">Partner Resources</h2>
 <ul>
 <li><a href="https://www.mohfw.gov.in/">Ministry of Health and Family Welfare</a></li>
 <li><a href="https://www.who.int/">World Health Organization</a></li>

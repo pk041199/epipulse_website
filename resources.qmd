@@ -1,102 +1,116 @@
 ---
-title: "Health Resources"
-description: "Comprehensive health education resources, guidelines, and tools for preventive care and disease management."
+title: "Resources & Learning Materials"
+description: "Evidence-based health resources, learning materials, and research support tools for health professionals and communities."
 ---
 
-# Health Resources
+# Resources & Learning Materials
 
-Access our collection of evidence-based health resources designed to empower individuals and communities with knowledge for better health outcomes.
+Explore our collection of research-backed resources, tools, and learning materials to support public health practice and evidence-based decision-making.
 
-## Preventive Care
+## Health Data Analysis Tools
+
+### Interactive Health Analytics Platform
+Access our interactive data analysis and visualization tool for disease burden estimation, risk analysis, and health trend monitoring.
+
+[**Open Health Data Analysis Tool**](https://drpkepipulse1.shinyapps.io/iapgrowthr/)
+
+---
+
+## Research & Technical Resources
+
+### Public Health Data Analysis
+Comprehensive guides and methodologies for health data analysis, research design, and evidence generation for public health programs.
+
+[Public Health Data Analysis Resource Hub](public_health_data_analysis.qmd)
+
+### Data Cleaning & Preparation Workflow
+Learn systematic approaches to health data cleaning, validation, and preparation using AI-assisted tools and R programming.
+
+[AI-Assisted Data Cleaning Workflow](ai_with_r.qmd)
+
+### Systematic Review & Meta-Analysis Tutorial
+Step-by-step guidance for conducting systematic reviews and meta-analyses in public health research.
+
+[SRMA Tutorial](srma_tutorial.qmd)
+
+### Technical Implementation Guides
+Documentation for technical setup, deployment, and systems integration.
+
+[Technical Documentation](railway_setup.qmd)
+
+---
+
+## Health Reference Materials
 
 ### NCD Prevention Guidelines
-- [Diabetes Prevention](https://www.who.int/health-topics/diabetes)
-- [Hypertension Management](https://www.who.int/health-topics/hypertension)
-- [Cardiovascular Health](https://www.who.int/health-topics/cardiovascular-diseases)
+- Evidence-based approaches to Non-Communicable Disease prevention
+- Risk screening and assessment tools
+- Intervention frameworks
+- Monitoring and evaluation methods
 
-### Immunization Schedules
-- [Indian Immunization Schedule](https://www.mohfw.gov.in/)
-- [COVID-19 Vaccination Updates](https://www.mohfw.gov.in/)
+### Maternal, Child & Adolescent Health
+- Best practice protocols for MCH programs
+- Quality improvement frameworks
+- Health system strengthening approaches
 
-## Disease Management
+### Environmental & Occupational Health
+- Environmental assessment methodologies
+- Occupational health surveillance
+- Safety protocols and guidelines
 
-### Diabetes Resources
-- Blood sugar monitoring guides
-- Dietary recommendations
-- Exercise plans for diabetics
-- Medication adherence tips
+### Public Health Data & Surveillance
+- Disease surveillance frameworks
+- Health information systems
+- Data quality standards
+- Epidemiological analysis methods
 
-### Hypertension Management
-- Home blood pressure monitoring
-- DASH diet guidelines
-- Stress management techniques
-- Medication information
+---
 
-### Respiratory Health
-- Asthma action plans
-- COPD management
-- Smoking cessation resources
+## Learning & Development
 
-## Maternal and Child Health
+### For Professionals
+- Training modules on public health practice
+- Research methodology courses
+- Implementation science guides
+- Capacity building resources
 
-### Pregnancy Care
-- Antenatal care checklists
-- Nutrition during pregnancy
-- Warning signs and when to seek help
+**For more:** [Education & Capacity Building](education_capacity_service.qmd)
 
-### Child Health
-- Growth monitoring charts
-- Common childhood illnesses
-- Developmental milestones
-- Pediatric vaccination reminders
+### For Communities
+- Health awareness materials
+- Preventive care guidelines
+- Self-management resources
+- Community health promotion
 
-## Mental Health and Deaddiction
+---
 
-### Mental Health Resources
-- Stress management techniques
-- Anxiety and depression resources
-- Suicide prevention helplines
+## Quick Reference Guides
 
-### Addiction Recovery
-- Understanding addiction
-- Withdrawal management
-- Relapse prevention strategies
-- Support group information
+- **Preventive Care Checklists**: Evidence-based prevention protocols
+- **Program Monitoring Tools**: Quality assurance and evaluation frameworks
+- **Health Education Materials**: Community-friendly learning resources
+- **Implementation Toolkits**: Practical guidance for program delivery
 
-## COVID-19 Resources
+---
 
-### Prevention
-- Mask usage guidelines
-- Hand hygiene protocols
-- Social distancing measures
+## Partner Resources
 
-### Management
-- Home isolation guidelines
-- Symptom tracking
-- When to seek medical help
+- [WHO Health Topics & Guidelines](https://www.who.int/)
+- [Ministry of Health and Family Welfare, India](https://www.mohfw.gov.in/)
+- [CDC Public Health Resources](https://www.cdc.gov/)
+- [National Institute of Public Health](https://niph.gov.in/)
 
-## Health Calculators and Tools
+---
 
-### BMI Calculator
-Calculate your Body Mass Index to assess weight status.
+## Getting Support
 
-### Calorie Counter
-Track daily caloric intake for weight management.
+Looking for specific resources or need customized training materials?
 
-### Water Intake Calculator
-Determine your daily water requirements.
+**Contact us:** research@epipulse.org or visit [Contact Page](contact.qmd)
 
-## Educational Materials
+---
 
-### Infographics
-- NCD risk factors
-- Healthy eating plate
-- Exercise recommendations
-
-### Videos
-- Health education webinars
-- Exercise demonstrations
-- Cooking healthy meals
+*Our resources are designed to be evidence-based, practical, and focused on strengthening public health practice and systems.*
 
 ### Articles
 - Latest health research summaries

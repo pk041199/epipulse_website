@@ -1,0 +1,87 @@
+---
+title: "NCD Prevention & Management Support"
+description: "Evidence-based non-communicable disease prevention and chronic disease management support for health systems and communities."
+---
+
+# NCD Prevention & Management Support
+
+EpiPulse provides comprehensive support for non-communicable disease (NCD) prevention and chronic disease management at community and health system levels.
+
+## Our Services
+
+### NCD Risk Screening & Identification
+- Community-based risk screening programs
+- Population risk stratification
+- Early detection protocols
+- Screening tool development and validation
+- Health system readiness assessment
+
+### Prevention Program Implementation
+- Lifestyle intervention design and delivery
+- Workplace health programs
+- School-based health promotion
+- Community awareness campaigns
+- Risk factor modification support
+
+**Focus Areas:**
+- Hypertension prevention and control
+- Diabetes prevention and management
+- Cardiovascular disease prevention
+- Respiratory health
+- Obesity and nutrition-related NCDs
+
+### Chronic Disease Management Support
+- Patient education and empowerment programs
+- Medication adherence support systems
+- Self-management training
+- Complication prevention protocols
+- Care coordination frameworks
+
+### Health System Strengthening for NCDs
+- NCD program design and implementation
+- Clinical protocol development
+- Health worker training
+- Supply chain management for NCD medications
+- Monitoring and evaluation frameworks
+
+### Data Systems for NCD Surveillance
+- NCD registry development
+- Disease burden estimation
+- Program monitoring dashboards
+- Quality improvement tracking
+- Evidence-based program adaptation
+
+## Evidence-Based Tools
+
+We use standardized:
+- WHO validated risk assessment tools
+- Evidence-based clinical guidelines
+- Best practice intervention models
+- Health technology assessment frameworks
+
+## Target Audiences
+
+- Health departments and programs
+- District and primary health centers
+- Workplace health initiatives
+- Community-based organizations
+- Patients and caregivers
+
+## Implementation Approach
+
+1. **Needs Assessment**: Understand local context and NCD burden
+2. **Program Design**: Evidence-based, context-appropriate solutions
+3. **Capacity Building**: Train health workers and community leaders
+4. **Implementation**: Field execution with monitoring
+5. **Evaluation**: Impact assessment and continuous improvement
+
+## Getting Connected
+
+For NCD prevention and management support:
+
+**Email**: programs@epipulse.org  
+**Contact**: [Reach Out](contact.qmd)
+
+---
+
+*EpiPulse NCD services are designed to support health equity and reduce disease burden through evidence-led action.*

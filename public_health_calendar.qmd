@@ -7,585 +7,328 @@ description: "Important public health awareness months, health observances, and 
 
 Stay informed about important health observances, awareness campaigns, and public health events throughout the year. This calendar highlights key dates when communities focus on specific health issues and prevention strategies.
 
+::: {style="overflow-x: auto; margin: 2rem 0;"}
+
 ## 2024-2025 Public Health Calendar
 
-### January
-
-**January 12 - National Youth Day**
-- Focus on youth health and wellness
-- Mental health awareness for young people
-- Substance abuse prevention programs
-
-**January 24 - National Girl Child Day**
-- **Focus**: Girl child education and health
-- **Activities**:
-  - Awareness about gender equality
-  - Nutrition programs for girls
-  - Health screening camps for girls
-
-**January 30 - World Leprosy Eradication Day**
-- **Objectives**: 
-  - Raise awareness about leprosy elimination
-  - Reduce stigma and discrimination
-  - Promote early diagnosis and treatment
-- **Activities**: Community screening camps, public education, healthcare provider training
-
----
-
-### February
-
-**February 4 - World Cancer Day**
-- **Theme**: Focus on cancer prevention, early detection, and treatment
-- **Objectives**:
-  - Reduce preventable deaths
-  - Increase health awareness
-  - Encourage healthy lifestyle choices
-- **Activities**:
-  - Health camps and screening
-  - Public awareness seminars
-  - Educational material distribution
-
-**February 6 - Female Genital Mutilation (FGM) Zero Tolerance Day**
-- Focus on eliminating harmful practices
-- Women's health advocacy
-
-**February 9 - International Epilepsy Day**
-- **Focus**: Epilepsy awareness and management
-- Activities: Awareness campaigns, counseling services
-
-**February 10 - National Deworming Day (India)**
-- **Focus**: Parasitic disease prevention
-- Target: School children and vulnerable populations
-- Activities: Mass deworming campaigns, health education
-
-**February 11 - Women in Science Day**
-- Recognize female scientists and healthcare professionals
-- Encourage women in STEM and health fields
-
-**February 20 - Social Justice Day (India)**
-- Focus on health equity and inclusive healthcare
-- Community health initiatives
-
-**February 28 - National Science Day (India)**
-- Promote scientific awareness in health
-- Science-based health communication
-
----
-
-### March
-
-**March 3 - World Hearing Day**
-- **Focus**: Ear and hearing health
-- Activities: Hearing screening camps, awareness about noise pollution
-
-**March 8 - International Women's Day**
-- Focus on women's health and empowerment
-- Maternal health, reproductive health, workplace safety
-- **Activities**:
-  - Health camps for women
-  - Awareness about cervical cancer, breast cancer screening
-  - Women's nutrition and wellness programs
-
-**March 12 - World Kidney Day**
-- **Focus**: Kidney disease prevention and management
-- Activities: Screening for chronic kidney disease, health education
-
-**March 16 - National Vaccination Day (India)**
-- **Focus**: Immunization awareness and coverage
-- Activities: Vaccination camps, parent education
-
-**March 20 - World Oral Health Day**
-- **Focus**: Dental health and hygiene
-- Activities: Oral health screening, dental care education
-
-**March 21 - Down Syndrome Day**
-- **Focus**: Awareness about Down Syndrome and inclusivity
-- Activities: Community awareness, support for families
-
-**March 22 - World Water Day**
-- **Focus**: Water safety and sanitation for health
-- Clean water access, disease prevention
-
-**March 24 - World Tuberculosis Day**
-- **Objectives**: Eliminate TB through prevention and treatment
-- **Focus Areas**:
-  - Increase diagnosis rates
-  - Promote adherence to treatment
-  - Combat drug-resistant TB
-- **Activities**:
-  - Community TB screening
-  - Patient education
-  - Healthcare provider training
-  - Public awareness campaigns
-
-**March 25 - International Day for Unborn Child**
-- Focus on prenatal health and fetal development
-- Maternal nutrition and care
-
-**March 26 - Epilepsy Awareness Day**
-- Reduce stigma associated with epilepsy
-- Treatment and management awareness
-
----
-
-### April
-
-**April 1 - Prevention of Blindness Week**
-- **Focus**: Eyesight protection and prevention of blindness
-- Activities: Eye screening camps, awareness about eye health
-
-**April 2 - World Autism Awareness Day**
-- **Focus**: Improve quality of life for people with autism
-- **Activities**:
-  - School and community programs
-  - Parent support groups
-  - Healthcare provider education
-
-**April 7 - World Health Day**
-- **Annual Theme**: Varies yearly (check WHO website)
-- **Objectives**: Promote global health priorities
-- **Activities**:
-  - Major health campaigns
-  - Ministry of Health initiatives
-  - Public health programs
-  - Community engagement
-
-**April 11 - Safe Motherhood Day**
-- **Focus**: Maternal health and safe delivery
-- Activities: Antenatal care camps, skilled birth attendance programs
-
-**April 17 - Haemophilia Day**
-- **Focus**: Awareness of bleeding disorders
-- Activities: Support groups, treatment access advocacy
-
-**April 22 - Earth Day**
-- Environmental health and sustainability
-- Impact on public health
-
-**April 25 - World Malaria Day**
-- **Focus**: Malaria prevention and control
-- **Activities**:
-  - Mass distribution of bed nets
-  - Community education
-  - Testing and treatment camps
-
-**April 28 - Occupational Safety Day**
-- **Focus**: Workplace health and safety
-- Activities: Occupational health programs, safety awareness
-
----
-
-### May
-
-**May 5 - World Asthma Day**
-- **Focus**: Asthma management and prevention
-- Activities: Screening camps, breathing exercises, inhaler technique training
-
-**May 8 - Thalassemia Day**
-- **Focus**: Awareness about thalassemia and blood disorders
-- Activities: Support groups, transfusion services awareness
-
-**May 10 - Lupus Day**
-- **Focus**: Systemic lupus erythematosus (SLE) awareness
-- Activities: Patient education and support
-
-**May 12 - International Nurses Day**
-- Recognize nursing profession
-- Focus on role in public health
-
-**May 15 - Family Day**
-- **Focus**: Family health and wellness
-- Activities: Family health camps and counseling
-
-**May 17 - Hypertension Day**
-- **Focus**: Blood pressure management and control
-- Activities: BP screening, dietary counseling
-
-**May 28 - Menstrual Hygiene Day**
-- **Focus**: Period health and menstrual hygiene
-- Activities: Awareness about hygiene products, addressing stigma
-
-**May 31 - World No Tobacco Day**
-- **Theme**: Emphasis on tobacco control
-- **Objectives**:
-  - Reduce tobacco use
-  - Address secondhand smoke
-  - Combat tobacco industry marketing
-- **Activities**:
-  - Community awareness programs
-  - Smoking cessation workshops
-  - School-based programs
-  - Public pledges against tobacco
-
----
-
-### June
-
-**June 1 - CPR Awareness Week**
-- **Focus**: Cardiopulmonary resuscitation training
-- Activities: CPR training camps, first aid workshops
-
-**June 4 - Day of Innocent Children Victims of Aggression**
-- **Focus**: Child protection and safety
-- Activities: Child abuse prevention programs
-
-**June 5 - World Environment Day**
-- Environmental health and sustainability
-- Impact of pollution on health
-
-**June 7 - World Food Safety Day**
-- **Focus**: Safe food handling and foodborne illness prevention
-- Activities: Food safety awareness, hygiene programs
-
-**June 8 - Brain Tumor Day**
-- **Focus**: Brain tumor awareness and support
-- Activities: Awareness campaigns, support groups
-
-**June 14 - World Blood Donor Day**
-- **Focus**: Blood safety and availability
-- **Activities**:
-  - Blood donation camps
-  - Blood storage and safety education
-  - Donor recruitment drives
-
-**June 15 - World Elder Abuse Awareness Day**
-- **Focus**: Protection of elderly persons
-- Activities: Elderly care programs, awareness campaigns
-
-**June 18 - Autistic Pride Day**
-- **Focus**: Celebration of autism and neurodiversity
-- Activities: Community awareness and inclusion programs
-
-**June 19 - Sickle Cell Day**
-- **Focus**: Sickle cell disease awareness
-- Activities: Screening for hemoglobinopathies, patient support
-
-**June 21 - International Yoga Day**
-- **Focus**: Physical fitness and mental wellness
-- **Activities**:
-  - Mass yoga sessions
-  - Community wellness programs
-  - School-based programs
-
-**June 26 - International Day Against Drug Abuse**
-- **Focus**: Substance abuse prevention
-- Activities: Awareness campaigns, rehabilitation services
-
-**June 27 - HIV Testing Day**
-- **Focus**: HIV awareness and testing
-- Activities: Confidential testing camps, counseling services
-
----
-
-### July
-
-**July 1 - Doctor's Day (India)**
-- **Focus**: Celebration of medical professionals
-- Healthcare worker appreciation programs
-
-**July 11 - World Population Day**
-- Family planning and reproductive health
-- Population dynamics and sustainability
-
-**July 28 - World Hepatitis Day**
-- **Focus**: Viral hepatitis prevention
-- **Objectives**:
-  - Eliminate hepatitis through vaccination
-  - Improve diagnosis and treatment
-- **Activities**:
-  - Screening camps
-  - Vaccination drives
-  - Health education
-
----
-
-### August
-
-**August 1 - World Breastfeeding Week**
-- **Focus**: Promotion of breastfeeding
-- Activities: Lactation support, maternal education
-
-**August 13 - Organ Donation Day**
-- **Focus**: Awareness about organ donation
-- Activities: Registration drives, awareness campaigns
-
-**August 20 - Mosquito Day**
-- **Focus**: Vector-borne disease prevention
-- Activities: Awareness about dengue, malaria, Zika prevention
-
----
-
-### September
-
-**September 1 - Nutrition Week**
-- **Focus**: Healthy nutrition and balanced diet
-- Activities: Nutritional counseling, cooking demonstrations
-
-**September 8 - Physiotherapy Day**
-- **Focus**: Rehabilitation and physical health
-- Activities: Therapy camps, exercise programs
-
-**September 10 - World Suicide Prevention Day**
-- **Focus**: Mental health awareness and suicide prevention
-- **Objectives**:
-  - Reduce stigma around mental illness
-  - Provide support resources
-  - Promote help-seeking behavior
-- **Activities**:
-  - Mental health awareness programs
-  - Counselor training
-  - Support group meetings
-  - Public education campaigns
-
-**September 14 - First Aid Day**
-- **Focus**: First aid training and awareness
-- Activities: First aid workshops, emergency response training
-
-**September 17 - World Patient Safety Day**
-- **Focus**: Healthcare quality and patient safety
-- Activities: Safety awareness programs, incident reporting
-
-**September 21 - Alzheimer's Day**
-- **Focus**: Dementia awareness and support
-- Activities: Cognitive health programs, caregiver support
-
-**September 25 - Pharmacists Day**
-- **Focus**: Role of pharmacists in healthcare
-- Healthcare professional appreciation
-
-**September 26 - World Contraception Day**
-- **Focus**: Reproductive health and family planning
-- Activities: Contraceptive counseling, family planning services
-
-**September 28 - World Rabies Day**
-- **Focus**: Rabies prevention and post-exposure prophylaxis
-- Activities: Awareness campaigns, vaccination programs
-
-**September 29 - World Heart Day**
-- **Focus**: Cardiovascular health and disease prevention
-- Activities: Heart health screening, lifestyle modification programs
-
----
-
-### October
-
-**October 1 - International Day of Older Persons**
-- **Focus**: Elderly health care and well-being
-- **Activities**:
-  - Senior health camps
-  - Fall prevention programs
-  - Chronic disease management
-
-**October 8 - World Sight Day**
-- **Focus**: Eye health and blindness prevention
-- Activities: Vision screening camps, eye care education
-
-**October 10 - World Mental Health Day**
-- **Theme**: Mental health and well-being
-- **Objectives**:
-  - Raise awareness about mental health
-  - Reduce stigma
-  - Promote help-seeking
-- **Activities**:
-  - Awareness campaigns
-  - Mental health counseling camps
-  - Educational seminars
-  - Support group meetings
-
-**October 11 - International Day of the Girl Child**
-- **Focus**: Girl child health and education
-- Activities: Health camps for girls, empowerment programs
-
-**October 12 - World Arthritis Day**
-- **Focus**: Arthritis awareness and management
-- Activities: Joint pain screening, exercise programs
-
-**October 13 - World Thrombosis Day**
-- **Focus**: Awareness of blood clots
-- Activities: Thrombotic disease awareness, vascular health
-
-**October 15 - Global Handwashing Day**
-- **Focus**: Hand hygiene and disease prevention
-- Activities: Handwashing awareness campaigns
-
-**October 16 - World Anaesthesia Day**
-- **Focus**: Role of anesthesia in safe surgery
-- Healthcare professional recognition
-
-**October 20 - World Osteoporosis Day**
-- **Focus**: Bone health and osteoporosis prevention
-- Activities: BMD screening, calcium/vitamin D education
-
-**October 24 - World Polio Day**
-- **Focus**: Polio eradication efforts
-- Activities: Immunization awareness, vaccination campaigns
-
-**October 29 - World Stroke Day**
-- **Focus**: Stroke awareness and prevention
-- **Activities**:
-  - Risk factor screening
-  - Public awareness
-  - Healthcare provider training
-
----
-
-### November
-
-**November 7 - Cancer Awareness Day**
-- **Focus**: Cancer prevention and early detection
-- Activities: Cancer screening camps, risk factor awareness
-
-**November 8 - World Radiography Day**
-- **Focus**: Role of medical imaging in diagnosis
-- Healthcare professional recognition
-
-**November 12 - World Pneumonia Day**
-- **Focus**: Respiratory infection prevention
-- Activities: Vaccination campaigns, respiratory health education
-
-**November 14 - World Diabetes Day**
-- **Theme**: Focus on diabetes prevention and management
-- **Objectives**:
-  - Increase awareness about diabetes
-  - Promote healthy lifestyles
-  - Improve access to treatment
-- **Activities**:
-  - Screening camps for diabetes
-  - Nutrition counseling
-  - Exercise programs
-  - Patient education sessions
-
-**November 16 - World COPD Day**
-- **Focus**: Chronic obstructive pulmonary disease awareness
-- Activities: Respiratory screening, smoking cessation programs
-
-**November 17 - World Epilepsy Day**
-- Epilepsy awareness and seizure management
-- Reduce stigma and discrimination
-
-**November 19 - World Toilet Day**
-- **Focus**: Sanitation and hygiene
-- Activities: Sanitation awareness, water and sanitation programs
-
----
-
-### December
-
-**December 1 - World AIDS Day**
-- **Theme**: HIV/AIDS awareness and combating stigma
-- **Objectives**:
-  - Promote HIV testing
-  - Increase awareness about prevention
-  - Support for people living with HIV/AIDS
-- **Activities**:
-  - Mass awareness programs
-  - Testing and counseling camps
-  - Support group meetings
-  - Educational seminars
-
-**December 3 - International Day of Persons with Disabilities**
-- Accessibility and inclusion in health services
-- Disability-inclusive health programs
-
-**December 12 - Universal Health Coverage (UHC) Day**
-- **Focus**: Accessible and affordable healthcare for all
-- Activities: UHC awareness campaigns, health equity initiatives
-
----
-
-## National Health Observances (India)
-
-### National Cancer Awareness Month
-- **When**: Throughout the year with focus activities
-- **Focus**: Early detection and prevention
-- **Activities**: Cancer screening camps, awareness talks
-
-### National Nutrition Month
-- **When**: September-October
-- **Focus**: Nutrition awareness and dietary guidelines
-- **Activities**: Nutrition counseling, school-based programs
-
-### National Immunization Week
-- **When**: Last week of March
-- **Focus**: Vaccination awareness
-- **Activities**: Immunization camps, awareness campaigns
-
----
-
-## State-Specific Health Observances
-
-Add your state's specific health observances and local health initiatives here.
-
----
-
-## Health Awareness Weeks
-
-- **Heart Health Week**: February (American Heart Month)
-- **Asthma Awareness Week**: March (first week)
-- **Mental Health Week**: Various states
-- **Sexual Health Awareness Week**: February
-- **Burn Prevention Month**: Burns Awareness Week
-
----
+:::
+
+```{=html}
+<style>
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.calendar-month {
+  background: white;
+  border: 2px solid #0d5c63;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(13, 92, 99, 0.12);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.calendar-month:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(13, 92, 99, 0.18);
+}
+
+.calendar-header {
+  background: linear-gradient(135deg, #0d5c63 0%, #124559 100%);
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.calendar-events {
+  padding: 1rem;
+}
+
+.calendar-event {
+  margin-bottom: 1.2rem;
+  padding: 0.8rem;
+  background: #f7fbfc;
+  border-left: 4px solid #0d5c63;
+  border-radius: 0.4rem;
+  transition: all 0.2s ease;
+}
+
+.calendar-event:hover {
+  background: #e6f3f4;
+  border-left-color: #124559;
+}
+
+.event-date {
+  display: inline-block;
+  background: #0d5c63;
+  color: white;
+  padding: 0.25rem 0.6rem;
+  border-radius: 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.02em;
+}
+
+.event-title {
+  font-weight: 700;
+  color: #124559;
+  margin: 0.4rem 0;
+  font-size: 1rem;
+}
+
+.event-description {
+  color: #5b6f76;
+  font-size: 0.9rem;
+  margin: 0.4rem 0;
+  line-height: 1.5;
+}
+</style>
+```
+
+```{=html}
+<div class="calendar-grid">
+<div class="calendar-month">
+<div class="calendar-header">January</div>
+<div class="calendar-events">
+<div class="calendar-event">
+<span class="event-date">January 12</span>
+<div class="event-title">National Youth Day</div>
+<div class="event-description">Focus on youth health and wellness, mental health awareness for young people, and substance abuse prevention programs</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">January 24</span>
+<div class="event-title">National Girl Child Day</div>
+<div class="event-description">Girl child education and health, awareness about gender equality, nutrition programs, and health screening camps</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">January 30</span>
+<div class="event-title">World Leprosy Eradication Day</div>
+<div class="event-description">Elimination awareness, reducing stigma and discrimination, early diagnosis and treatment promotion, community screening camps</div>
+</div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">February</div>
+<div class="calendar-events">
+
+<div class="calendar-event">
+<span class="event-date">Feb 4</span>
+<div class="event-title">World Cancer Day</div>
+<div class="event-description">Cancer prevention and early detection focus, health camps, awareness seminars, and educational material distribution</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Feb 6</span>
+<div class="event-title">FGM Zero Tolerance Day</div>
+<div class="event-description">Eliminating harmful practices and women's health advocacy</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Feb 9</span>
+<div class="event-title">International Epilepsy Day</div>
+<div class="event-description">Epilepsy awareness and management through campaigns and counseling</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Feb 10</span>
+<div class="event-title">National Deworming Day</div>
+<div class="event-description">Parasitic disease prevention targeting school children and vulnerable populations</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Feb 11</span>
+<div class="event-title">Women in Science Day</div>
+<div class="event-description">Recognize female scientists and healthcare professionals in STEM and health fields</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Feb 20</span>
+<div class="event-title">Social Justice Day</div>
+<div class="event-description">Health equity and inclusive healthcare through community initiatives</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Feb 28</span>
+<div class="event-title">National Science Day</div>
+<div class="event-description">Promote scientific awareness in health through science-based communication</div>
+</div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">March</div>
+<div class="calendar-event">
+<span class="event-date">Mar 3</span>
+<div class="event-title">World Hearing Day</div>
+<div class="event-description">Ear and hearing health through screening camps and noise pollution awareness</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 8</span>
+<div class="event-title">International Women's Day</div>
+<div class="event-description">Women's health, maternal and reproductive health, cancer screening awareness, and wellness programs</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 12</span>
+<div class="event-title">World Kidney Day</div>
+<div class="event-description">Kidney disease prevention through screening and health education</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 16</span>
+<div class="event-title">National Vaccination Day</div>
+<div class="event-description">Immunization awareness and coverage through vaccination camps</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 20</span>
+<div class="event-title">World Oral Health Day</div>
+<div class="event-description">Dental health and hygiene through screening and care education</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 21</span>
+<div class="event-title">Down Syndrome Day</div>
+<div class="event-description">Awareness and inclusivity with community support for families</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 22</span>
+<div class="event-title">World Water Day</div>
+<div class="event-description">Water safety and sanitation for health, clean water access and disease prevention</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 24</span>
+<div class="event-title">World Tuberculosis Day</div>
+<div class="event-description">TB elimination through community screening, patient education, and public awareness campaigns</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 25</span>
+<div class="event-title">International Day for Unborn Child</div>
+<div class="event-description">Prenatal health, fetal development, maternal nutrition and care</div>
+</div>
+<div class="calendar-event">
+<span class="event-date">Mar 26</span>
+<div class="event-title">Epilepsy Awareness Day</div>
+<div class="event-description">Reduce stigma and promote treatment and management awareness</div>
+</div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">April</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Apr 1</span><div class="event-title">Prevention of Blindness Week</div><div class="event-description">Eye screening camps and health awareness</div></div>
+<div class="calendar-event"><span class="event-date">Apr 2</span><div class="event-title">World Autism Awareness Day</div><div class="event-description">Community programs and support services</div></div>
+<div class="calendar-event"><span class="event-date">Apr 7</span><div class="event-title">World Health Day</div><div class="event-description">Global health awareness campaigns</div></div>
+<div class="calendar-event"><span class="event-date">Apr 11</span><div class="event-title">Safe Motherhood Day</div><div class="event-description">Maternal health and antenatal care</div></div>
+<div class="calendar-event"><span class="event-date">Apr 25</span><div class="event-title">World Malaria Day</div><div class="event-description">Malaria prevention and treatment</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">May</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">May 5</span><div class="event-title">World Asthma Day</div><div class="event-description">Asthma management and screening</div></div>
+<div class="calendar-event"><span class="event-date">May 12</span><div class="event-title">International Nurses Day</div><div class="event-description">Recognition of nursing professionals</div></div>
+<div class="calendar-event"><span class="event-date">May 17</span><div class="event-title">Hypertension Day</div><div class="event-description">Blood pressure screening and management</div></div>
+<div class="calendar-event"><span class="event-date">May 28</span><div class="event-title">Menstrual Hygiene Day</div><div class="event-description">Period health and hygiene awareness</div></div>
+<div class="calendar-event"><span class="event-date">May 31</span><div class="event-title">World No Tobacco Day</div><div class="event-description">Tobacco cessation workshops</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">June</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Jun 5</span><div class="event-title">World Environment Day</div><div class="event-description">Environmental health and sustainability</div></div>
+<div class="calendar-event"><span class="event-date">Jun 14</span><div class="event-title">World Blood Donor Day</div><div class="event-description">Blood donation camps and safety</div></div>
+<div class="calendar-event"><span class="event-date">Jun 21</span><div class="event-title">International Yoga Day</div><div class="event-description">Physical fitness and wellness programs</div></div>
+<div class="calendar-event"><span class="event-date">Jun 26</span><div class="event-title">Day Against Drug Abuse</div><div class="event-description">Substance abuse prevention awareness</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">July</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Jul 1</span><div class="event-title">Doctor's Day</div><div class="event-description">Medical professionals appreciation</div></div>
+<div class="calendar-event"><span class="event-date">Jul 11</span><div class="event-title">World Population Day</div><div class="event-description">Family planning and reproductive health</div></div>
+<div class="calendar-event"><span class="event-date">Jul 28</span><div class="event-title">World Hepatitis Day</div><div class="event-description">Viral hepatitis prevention and vaccination</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">August</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Aug 1</span><div class="event-title">World Breastfeeding Week</div><div class="event-description">Lactation support and maternal education</div></div>
+<div class="calendar-event"><span class="event-date">Aug 13</span><div class="event-title">Organ Donation Day</div><div class="event-description">Organ donation awareness campaigns</div></div>
+<div class="calendar-event"><span class="event-date">Aug 20</span><div class="event-title">Mosquito Day</div><div class="event-description">Vector-borne disease prevention</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">September</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Sep 1</span><div class="event-title">Nutrition Week</div><div class="event-description">Healthy nutrition and diet counseling</div></div>
+<div class="calendar-event"><span class="event-date">Sep 8</span><div class="event-title">Physiotherapy Day</div><div class="event-description">Rehabilitation and physical health</div></div>
+<div class="calendar-event"><span class="event-date">Sep 10</span><div class="event-title">World Suicide Prevention Day</div><div class="event-description">Mental health awareness and support</div></div>
+<div class="calendar-event"><span class="event-date">Sep 29</span><div class="event-title">World Heart Day</div><div class="event-description">Cardiovascular health screening</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">October</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Oct 1</span><div class="event-title">Day of Older Persons</div><div class="event-description">Elderly health care programs</div></div>
+<div class="calendar-event"><span class="event-date">Oct 8</span><div class="event-title">World Sight Day</div><div class="event-description">Eye health and vision screening</div></div>
+<div class="calendar-event"><span class="event-date">Oct 10</span><div class="event-title">World Mental Health Day</div><div class="event-description">Mental health awareness and counseling</div></div>
+<div class="calendar-event"><span class="event-date">Oct 24</span><div class="event-title">World Polio Day</div><div class="event-description">Polio eradication vaccination</div></div>
+<div class="calendar-event"><span class="event-date">Oct 29</span><div class="event-title">World Stroke Day</div><div class="event-description">Stroke prevention awareness</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">November</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Nov 12</span><div class="event-title">World Pneumonia Day</div><div class="event-description">Respiratory health and vaccination</div></div>
+<div class="calendar-event"><span class="event-date">Nov 14</span><div class="event-title">World Diabetes Day</div><div class="event-description">Diabetes screening and education</div></div>
+<div class="calendar-event"><span class="event-date">Nov 16</span><div class="event-title">World COPD Day</div><div class="event-description">Respiratory health programs</div></div>
+<div class="calendar-event"><span class="event-date">Nov 19</span><div class="event-title">World Toilet Day</div><div class="event-description">Sanitation and hygiene awareness</div></div>
+</div>
+</div>
+
+<div class="calendar-month">
+<div class="calendar-header">December</div>
+<div class="calendar-events">
+<div class="calendar-event"><span class="event-date">Dec 1</span><div class="event-title">World AIDS Day</div><div class="event-description">HIV awareness and testing camps</div></div>
+<div class="calendar-event"><span class="event-date">Dec 3</span><div class="event-title">Day of Persons with Disabilities</div><div class="event-description">Disability-inclusive health services</div></div>
+<div class="calendar-event"><span class="event-date">Dec 12</span><div class="event-title">Universal Health Coverage Day</div><div class="event-description">Accessible and affordable healthcare</div></div>
+</div>
+</div>
+</div>
+```
 
 ## How to Use This Calendar
 
 ### For Patients & Community
 - Mark important health observance dates
 - Participate in screening and awareness camps
-- Share health education materials
 - Seek preventive care during awareness months
 
 ### For Healthcare Providers
-- Plan screening and treatment camps
-- Develop awareness materials
-- Conduct educational sessions
-- Refer patients to appropriate services
+- Plan screening camps around key dates
+- Develop educational materials
+- Conduct awareness sessions
 
 ### For EpiPulse Team
 - Schedule volunteer activities around key dates
-- Prepare educational content
 - Organize community events
-- Plan media campaigns
-
----
-
-## Upcoming Events & Activities
-
-Check back regularly for EpiPulse's scheduled activities during these observance dates:
-
-- **January 30**: Leprosy Eradication - Community Screening Drive
-- **March 8**: Women's Health Awareness Program
-- **March 24**: TB Screening Camp
-- **April 7**: World Health Day Community Event
-- **May 31**: Tobacco Cessation Workshop
-- **October 10**: Mental Health Awareness Webinar
-- **November 14**: Diabetes Awareness and Screening
-- **December 1**: World AIDS Day Campaign
-
----
-
-## Download Calendar
-
-[Download Full 2024-2025 Public Health Calendar (PDF)](public-health-calendar-2024-2025.pdf)
-
----
-
-## References & Additional Resources
-
-- [WHO Health Observances Calendar](https://www.who.int/news-room/calendar)
-- [Ministry of Health and Family Welfare, India](https://www.mohfw.gov.in/)
-- [National Health Mission Calendar](https://nhm.gov.in/)
-- [CDC Health Observances](https://www.cdc.gov/health-observances/)
+- Plan awareness campaigns
 
 ---
 
 ## Contact & Participation
 
-Interested in participating in EpiPulse public health initiatives during these observance dates?
+Interested in participating in EpiPulse health initiatives?
 
 - **Email**: programs@epipulse.org
-- **Phone**: [Your phone number]
-- **Join Our Volunteer Team**: [Volunteer Page](volunteer.qmd)
+- **Join Our Team**: [Volunteer](volunteer.qmd)
 
 **Stay healthy, stay informed!**

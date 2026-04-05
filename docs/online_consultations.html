@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Join your EpiPulse online consultation via secure Google Meet video conference. Easy, accessible, and private healthcare from home.">
+<meta name="description" content="EpiPulse online healthcare consultations through secure Google Meet video conferencing.">
 
-<title>Online Consultations - Google Meet – EpiPulse</title>
+<title>Online Consultations via Google Meet – EpiPulse</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -103,33 +103,44 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./programs.html"> 
 <span class="menu-text">Programs</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./services.html"> 
-<span class="menu-text">Services</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-services" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Services</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-services">    
+        <li>
+    <a class="dropdown-item" href="./health_data_analysis_service.html">
+ <span class="dropdown-text">Health Data Analysis &amp; Research</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./ncd_support_service.html">
+ <span class="dropdown-text">NCD Prevention &amp; Management</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mcah_support_service.html">
+ <span class="dropdown-text">Maternal, Child &amp; Adolescent Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./environmental_health_service.html">
+ <span class="dropdown-text">Environmental &amp; Occupational Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./education_capacity_service.html">
+ <span class="dropdown-text">Education &amp; Capacity Building</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-appointments" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Appointments</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-appointments">    
         <li>
-    <a class="dropdown-item" href="./book_appointment.qmd">
+    <a class="dropdown-item" href="https://epipulse-appointments.railway.app/">
  <span class="dropdown-text">Book Appointment</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./appointments.html">
- <span class="dropdown-text">Manage Appointments</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./online_consultations.html">
- <span class="dropdown-text">Online Consultations</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./caregrid.html"> 
-<span class="menu-text">CareGrid App</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./impact.html"> 
 <span class="menu-text">Impact</span></a>
@@ -148,16 +159,24 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
+    <a class="dropdown-item" href="./caregrid.html">
+ <span class="dropdown-text">CareGrid App</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./public_health_data_analysis.html">
  <span class="dropdown-text">Resource Hub</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./ai_with_r.html">
- <span class="dropdown-text">AI-assisted Data Cleaning Workflow</span></a>
+ <span class="dropdown-text">AI Workflow for Data Cleaning</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://drpkepipulse1.shinyapps.io/iapgrowthr/">
+ <span class="dropdown-text">Health Data Analysis Tool</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./resources.html">
- <span class="dropdown-text">Health Resources</span></a>
+ <span class="dropdown-text">Health Reference Materials</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./srma_tutorial.html">
@@ -165,11 +184,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./railway_setup.html">
- <span class="dropdown-text">Railway Deployment Guide</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./public_health_data_analaysis.html">
- <span class="dropdown-text">Legacy Technical Draft</span></a>
+ <span class="dropdown-text">Technical Documentation</span></a>
   </li>  
     </ul>
   </li>
@@ -205,14 +220,20 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#online-consultations-via-google-meet" id="toc-online-consultations-via-google-meet" class="nav-link active" data-scroll-target="#online-consultations-via-google-meet">Online Consultations via Google Meet</a>
   <ul class="collapse">
-  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works">How It Works</a>
+  <li><a href="#how-online-consultations-work" id="toc-how-online-consultations-work" class="nav-link" data-scroll-target="#how-online-consultations-work">How Online Consultations Work</a>
   <ul class="collapse">
-  <li><a href="#for-patients" id="toc-for-patients" class="nav-link" data-scroll-target="#for-patients">For Patients</a></li>
-  <li><a href="#for-healthcare-providers" id="toc-for-healthcare-providers" class="nav-link" data-scroll-target="#for-healthcare-providers">For Healthcare Providers</a></li>
+  <li><a href="#before-your-consultation" id="toc-before-your-consultation" class="nav-link" data-scroll-target="#before-your-consultation">Before Your Consultation</a></li>
+  <li><a href="#during-your-consultation" id="toc-during-your-consultation" class="nav-link" data-scroll-target="#during-your-consultation">During Your Consultation</a></li>
+  <li><a href="#after-your-consultation" id="toc-after-your-consultation" class="nav-link" data-scroll-target="#after-your-consultation">After Your Consultation</a></li>
   </ul></li>
-  <li><a href="#technology-requirements" id="toc-technology-requirements" class="nav-link" data-scroll-target="#technology-requirements">Technology Requirements</a>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started">Getting Started</a></li>
+  <li><a href="#technology-setup" id="toc-technology-setup" class="nav-link" data-scroll-target="#technology-setup">Technology Setup</a>
   <ul class="collapse">
-  <li><a href="#system-requirements" id="toc-system-requirements" class="nav-link" data-scroll-target="#system-requirements">System Requirements</a></li>
+  <li><a href="#minimum-requirements" id="toc-minimum-requirements" class="nav-link" data-scroll-target="#minimum-requirements">Minimum Requirements</a></li>
+  <li><a href="#no-special-software-needed" id="toc-no-special-software-needed" class="nav-link" data-scroll-target="#no-special-software-needed">No Special Software Needed</a></li>
+  </ul></li>
+  <li><a href="#support" id="toc-support" class="nav-link" data-scroll-target="#support">Support</a>
+  <ul class="collapse">
   <li><a href="#supported-devices" id="toc-supported-devices" class="nav-link" data-scroll-target="#supported-devices">Supported Devices</a></li>
   <li><a href="#bandwidth-requirements" id="toc-bandwidth-requirements" class="nav-link" data-scroll-target="#bandwidth-requirements">Bandwidth Requirements</a></li>
   </ul></li>
@@ -220,7 +241,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#for-better-consultation" id="toc-for-better-consultation" class="nav-link" data-scroll-target="#for-better-consultation">For Better Consultation</a></li>
   </ul></li>
-  <li><a href="#before-your-consultation" id="toc-before-your-consultation" class="nav-link" data-scroll-target="#before-your-consultation">Before Your Consultation</a>
+  <li><a href="#before-your-consultation-1" id="toc-before-your-consultation-1" class="nav-link" data-scroll-target="#before-your-consultation-1">Before Your Consultation</a>
   <ul class="collapse">
   <li><a href="#checklist" id="toc-checklist" class="nav-link" data-scroll-target="#checklist">Checklist</a></li>
   <li><a href="#internet-speed-test" id="toc-internet-speed-test" class="nav-link" data-scroll-target="#internet-speed-test">Internet Speed Test</a></li>
@@ -251,7 +272,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#policy" id="toc-policy" class="nav-link" data-scroll-target="#policy">Policy</a></li>
   <li><a href="#how-to-cancelreschedule" id="toc-how-to-cancelreschedule" class="nav-link" data-scroll-target="#how-to-cancelreschedule">How to Cancel/Reschedule</a></li>
   </ul></li>
-  <li><a href="#after-your-consultation" id="toc-after-your-consultation" class="nav-link" data-scroll-target="#after-your-consultation">After Your Consultation</a>
+  <li><a href="#after-your-consultation-1" id="toc-after-your-consultation-1" class="nav-link" data-scroll-target="#after-your-consultation-1">After Your Consultation</a>
   <ul class="collapse">
   <li><a href="#follow-up-steps" id="toc-follow-up-steps" class="nav-link" data-scroll-target="#follow-up-steps">Follow-up Steps</a></li>
   </ul></li>
@@ -267,12 +288,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Online Consultations - Google Meet</h1>
+<h1 class="title">Online Consultations via Google Meet</h1>
 </div>
 
 <div>
   <div class="description">
-    Join your EpiPulse online consultation via secure Google Meet video conference. Easy, accessible, and private healthcare from home.
+    EpiPulse online healthcare consultations through secure Google Meet video conferencing.
   </div>
 </div>
 
@@ -291,119 +312,74 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="online-consultations-via-google-meet" class="level1">
 <h1>Online Consultations via Google Meet</h1>
-<p>Welcome to EpiPulse’s online consultation platform. We provide secure, accessible healthcare consultations through Google Meet, allowing you to connect with healthcare professionals from the comfort of your home.</p>
-<section id="how-it-works" class="level2">
-<h2 class="anchored" data-anchor-id="how-it-works">How It Works</h2>
-<section id="for-patients" class="level3">
-<h3 class="anchored" data-anchor-id="for-patients">For Patients</h3>
-<section id="step-1-book-your-appointment" class="level4">
-<h4 class="anchored" data-anchor-id="step-1-book-your-appointment">Step 1: Book Your Appointment</h4>
+<p>EpiPulse provides secure, accessible healthcare consultations through Google Meet, allowing you to connect with healthcare professionals from home.</p>
+<section id="how-online-consultations-work" class="level2">
+<h2 class="anchored" data-anchor-id="how-online-consultations-work">How Online Consultations Work</h2>
+<section id="before-your-consultation" class="level3">
+<h3 class="anchored" data-anchor-id="before-your-consultation">Before Your Consultation</h3>
 <ul>
-<li>Visit our <a href="book_appointment.qmd">Book Appointment</a> page</li>
-<li>Fill out your details and health concern</li>
-<li>Select your preferred date, time, and service type</li>
-<li>Submit the form</li>
-</ul>
-</section>
-<section id="step-2-receive-confirmation" class="level4">
-<h4 class="anchored" data-anchor-id="step-2-receive-confirmation">Step 2: Receive Confirmation</h4>
-<ul>
-<li>You’ll receive a confirmation email/SMS within 24 hours</li>
-<li>Confirmation includes:
-<ul>
-<li>Appointment date and time</li>
-<li>Doctor/consultant name</li>
-<li><strong>Google Meet link</strong> for the consultation</li>
-<li>Meeting code and instructions</li>
-</ul></li>
-</ul>
-</section>
-<section id="step-3-prepare-for-consultation" class="level4">
-<h4 class="anchored" data-anchor-id="step-3-prepare-for-consultation">Step 3: Prepare for Consultation</h4>
-<ul>
-<li>Check your internet connection (minimum 2 Mbps recommended)</li>
+<li>Ensure you have a stable internet connection</li>
 <li>Find a quiet, private space</li>
-<li>Ensure adequate lighting for video</li>
-<li>Have any medical documents/reports ready</li>
+<li>Have any relevant medical documents/reports ready</li>
 <li>Join 5-10 minutes before the scheduled time</li>
 </ul>
 </section>
-<section id="step-4-join-the-meeting" class="level4">
-<h4 class="anchored" data-anchor-id="step-4-join-the-meeting">Step 4: Join the Meeting</h4>
-<p><strong>Option A: Click the Link</strong> - Click the Google Meet link in your confirmation email - Browser will open Google Meet - Grant camera and microphone permissions - Click “Join Now”</p>
-<p><strong>Option B: Use Meeting Code</strong> - Go to <a href="https://meet.google.com">meet.google.com</a> - Click “Join or start a meeting” - Enter the meeting code provided - Click “Join”</p>
-</section>
-<section id="step-5-consultation" class="level4">
-<h4 class="anchored" data-anchor-id="step-5-consultation">Step 5: Consultation</h4>
+<section id="during-your-consultation" class="level3">
+<h3 class="anchored" data-anchor-id="during-your-consultation">During Your Consultation</h3>
 <ul>
-<li>Greet your doctor when they join</li>
-<li>Discuss your health concern</li>
-<li>Follow medical advice provided</li>
-<li>Ask clarifying questions</li>
-<li>Take notes on recommendations</li>
+<li>You’ll connect via a secure Google Meet video link</li>
+<li>Discuss your health concerns with your healthcare provider</li>
+<li>Ask questions and get personalized guidance</li>
+<li>Receive recommendations and next steps</li>
 </ul>
 </section>
-<section id="step-6-receive-prescription" class="level4">
-<h4 class="anchored" data-anchor-id="step-6-receive-prescription">Step 6: Receive Prescription</h4>
+<section id="after-your-consultation" class="level3">
+<h3 class="anchored" data-anchor-id="after-your-consultation">After Your Consultation</h3>
 <ul>
-<li>Your doctor will provide:
-<ul>
-<li>Digital prescription via email</li>
-<li>Consultation notes</li>
-<li>Follow-up instructions</li>
-<li>Any referrals if needed</li>
-</ul></li>
+<li>Get a digital prescription via email</li>
+<li>Receive follow-up instructions</li>
+<li>Get any referrals if needed</li>
+<li>Have your consultation summary for reference</li>
 </ul>
 <hr>
 </section>
 </section>
-<section id="for-healthcare-providers" class="level3">
-<h3 class="anchored" data-anchor-id="for-healthcare-providers">For Healthcare Providers</h3>
-<section id="setup-steps" class="level4">
-<h4 class="anchored" data-anchor-id="setup-steps">Setup Steps</h4>
-<ol type="1">
-<li><strong>Use Dedicated Account</strong>
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
+<p><strong>To book an online consultation:</strong></p>
+<p><a href="./book_appointment.html"><strong>Book Your Appointment</strong></a></p>
+<hr>
+</section>
+<section id="technology-setup" class="level2">
+<h2 class="anchored" data-anchor-id="technology-setup">Technology Setup</h2>
+<section id="minimum-requirements" class="level3">
+<h3 class="anchored" data-anchor-id="minimum-requirements">Minimum Requirements</h3>
 <ul>
-<li>Use provided Google account credentials</li>
-<li>Check calendar for scheduled appointments</li>
-<li>Prepare meeting links in advance</li>
-</ul></li>
-<li><strong>Generate/Verify Meet Link</strong>
+<li>Device: Computer, tablet, or smartphone</li>
+<li>Internet: Minimum 2 Mbps connection</li>
+<li>Browser: Chrome, Safari, Firefox, or Edge (latest version)</li>
+<li>Permissions: Camera and microphone access</li>
+</ul>
+</section>
+<section id="no-special-software-needed" class="level3">
+<h3 class="anchored" data-anchor-id="no-special-software-needed">No Special Software Needed</h3>
 <ul>
-<li>For each appointment, have the Meet code ready</li>
-<li>Test audio/video 5 minutes before</li>
-<li>Ensure good lighting and background</li>
-</ul></li>
-<li><strong>Join Meeting</strong>
-<ul>
-<li>Join using the meeting code</li>
-<li>Greet patient professionally</li>
-<li>Conduct consultation following medical protocols</li>
-</ul></li>
-<li><strong>Document Consultation</strong>
-<ul>
-<li>Take detailed notes in patient record</li>
-<li>Record vital information</li>
-<li>Document diagnosis and treatment plan</li>
-</ul></li>
-<li><strong>Issue Prescription</strong>
-<ul>
-<li>Create digital prescription</li>
-<li>Email to patient with follow-up instructions</li>
-<li>Include referrals if needed</li>
-<li>Update appointment status as “Completed”</li>
-</ul></li>
-</ol>
+<li>Google Meet works directly in your web browser</li>
+<li>No need to install additional applications</li>
+<li>Works on Windows, Mac, iOS, and Android</li>
+</ul>
 <hr>
 </section>
 </section>
-</section>
-<section id="technology-requirements" class="level2">
-<h2 class="anchored" data-anchor-id="technology-requirements">Technology Requirements</h2>
-<section id="system-requirements" class="level3">
-<h3 class="anchored" data-anchor-id="system-requirements">System Requirements</h3>
-<p><strong>Minimum Specifications:</strong> - <strong>Internet</strong>: Broadband connection (2 Mbps minimum, 4 Mbps recommended) - <strong>Device</strong>: Computer, tablet, or smartphone - <strong>Browser</strong>: Chrome, Firefox, Safari, or Edge (latest versions) - <strong>Camera</strong>: Built-in or external webcam - <strong>Microphone</strong>: Built-in or external microphone - <strong>Audio</strong>: Speakers or headphones</p>
-</section>
+<section id="support" class="level2">
+<h2 class="anchored" data-anchor-id="support">Support</h2>
+<p><strong>Having trouble joining your consultation?</strong></p>
+<ul>
+<li><strong>Email</strong>: appointments@epipulse.org</li>
+<li><strong>Contact</strong>: <a href="./contact.html">Reach Out</a></li>
+</ul>
+<hr>
+<p><strong><a href="./book_appointment.html">Book Your Online Consultation</a></strong> - <strong>Internet</strong>: Broadband connection (2 Mbps minimum, 4 Mbps recommended) - <strong>Device</strong>: Computer, tablet, or smartphone - <strong>Browser</strong>: Chrome, Firefox, Safari, or Edge (latest versions) - <strong>Camera</strong>: Built-in or external webcam - <strong>Microphone</strong>: Built-in or external microphone - <strong>Audio</strong>: Speakers or headphones</p>
 <section id="supported-devices" class="level3">
 <h3 class="anchored" data-anchor-id="supported-devices">Supported Devices</h3>
 <p>✅ <strong>Desktop/Laptop</strong> - Windows, Mac, Linux - Any modern browser</p>
@@ -475,8 +451,8 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 </section>
 </section>
-<section id="before-your-consultation" class="level2">
-<h2 class="anchored" data-anchor-id="before-your-consultation">Before Your Consultation</h2>
+<section id="before-your-consultation-1" class="level2">
+<h2 class="anchored" data-anchor-id="before-your-consultation-1">Before Your Consultation</h2>
 <section id="checklist" class="level3">
 <h3 class="anchored" data-anchor-id="checklist">Checklist</h3>
 <ul class="task-list">
@@ -612,8 +588,8 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 </section>
 </section>
-<section id="after-your-consultation" class="level2">
-<h2 class="anchored" data-anchor-id="after-your-consultation">After Your Consultation</h2>
+<section id="after-your-consultation-1" class="level2">
+<h2 class="anchored" data-anchor-id="after-your-consultation-1">After Your Consultation</h2>
 <section id="follow-up-steps" class="level3">
 <h3 class="anchored" data-anchor-id="follow-up-steps">Follow-up Steps</h3>
 <ol type="1">
@@ -665,7 +641,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="ready-to-book-your-consultation" class="level2">
 <h2 class="anchored" data-anchor-id="ready-to-book-your-consultation">Ready to Book Your Consultation?</h2>
-<p><a href="book_appointment.qmd"><strong>Book Your Appointment Now</strong></a></p>
+<p><a href="./book_appointment.html"><strong>Book Your Appointment Now</strong></a></p>
 <hr>
 </section>
 <section id="need-help" class="level2">

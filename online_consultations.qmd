@@ -1,103 +1,67 @@
 ---
-title: "Online Consultations - Google Meet"
-description: "Join your EpiPulse online consultation via secure Google Meet video conference. Easy, accessible, and private healthcare from home."
+title: "Online Consultations via Google Meet"
+description: "EpiPulse online healthcare consultations through secure Google Meet video conferencing."
 ---
 
 # Online Consultations via Google Meet
 
-Welcome to EpiPulse's online consultation platform. We provide secure, accessible healthcare consultations through Google Meet, allowing you to connect with healthcare professionals from the comfort of your home.
+EpiPulse provides secure, accessible healthcare consultations through Google Meet, allowing you to connect with healthcare professionals from home.
 
-## How It Works
+## How Online Consultations Work
 
-### For Patients
-
-#### Step 1: Book Your Appointment
-- Visit our [Book Appointment](book_appointment.qmd) page
-- Fill out your details and health concern
-- Select your preferred date, time, and service type
-- Submit the form
-
-#### Step 2: Receive Confirmation
-- You'll receive a confirmation email/SMS within 24 hours
-- Confirmation includes:
-  - Appointment date and time
-  - Doctor/consultant name
-  - **Google Meet link** for the consultation
-  - Meeting code and instructions
-
-#### Step 3: Prepare for Consultation
-- Check your internet connection (minimum 2 Mbps recommended)
+### Before Your Consultation
+- Ensure you have a stable internet connection
 - Find a quiet, private space
-- Ensure adequate lighting for video
-- Have any medical documents/reports ready
+- Have any relevant medical documents/reports ready
 - Join 5-10 minutes before the scheduled time
 
-#### Step 4: Join the Meeting
-**Option A: Click the Link**
-- Click the Google Meet link in your confirmation email
-- Browser will open Google Meet
-- Grant camera and microphone permissions
-- Click "Join Now"
+### During Your Consultation
+- You'll connect via a secure Google Meet video link
+- Discuss your health concerns with your healthcare provider
+- Ask questions and get personalized guidance
+- Receive recommendations and next steps
 
-**Option B: Use Meeting Code**
-- Go to [meet.google.com](https://meet.google.com)
-- Click "Join or start a meeting"
-- Enter the meeting code provided
-- Click "Join"
-
-#### Step 5: Consultation
-- Greet your doctor when they join
-- Discuss your health concern
-- Follow medical advice provided
-- Ask clarifying questions
-- Take notes on recommendations
-
-#### Step 6: Receive Prescription
-- Your doctor will provide:
-  - Digital prescription via email
-  - Consultation notes
-  - Follow-up instructions
-  - Any referrals if needed
+### After Your Consultation
+- Get a digital prescription via email
+- Receive follow-up instructions
+- Get any referrals if needed
+- Have your consultation summary for reference
 
 ---
 
-### For Healthcare Providers
+## Getting Started
 
-#### Setup Steps
+**To book an online consultation:**
 
-1. **Use Dedicated Account**
-   - Use provided Google account credentials
-   - Check calendar for scheduled appointments
-   - Prepare meeting links in advance
-
-2. **Generate/Verify Meet Link**
-   - For each appointment, have the Meet code ready
-   - Test audio/video 5 minutes before
-   - Ensure good lighting and background
-
-3. **Join Meeting**
-   - Join using the meeting code
-   - Greet patient professionally
-   - Conduct consultation following medical protocols
-
-4. **Document Consultation**
-   - Take detailed notes in patient record
-   - Record vital information
-   - Document diagnosis and treatment plan
-
-5. **Issue Prescription**
-   - Create digital prescription
-   - Email to patient with follow-up instructions
-   - Include referrals if needed
-   - Update appointment status as "Completed"
+[**Book Your Appointment**](book_appointment.qmd)
 
 ---
 
-## Technology Requirements
+## Technology Setup
 
-### System Requirements
+### Minimum Requirements
+- Device: Computer, tablet, or smartphone
+- Internet: Minimum 2 Mbps connection
+- Browser: Chrome, Safari, Firefox, or Edge (latest version)
+- Permissions: Camera and microphone access
 
-**Minimum Specifications:**
+### No Special Software Needed
+- Google Meet works directly in your web browser
+- No need to install additional applications
+- Works on Windows, Mac, iOS, and Android
+
+---
+
+## Support
+
+**Having trouble joining your consultation?**
+
+- **Email**: appointments@epipulse.org
+- **Contact**: [Reach Out](contact.qmd)
+
+---
+
+**[Book Your Online Consultation](book_appointment.qmd)**
 - **Internet**: Broadband connection (2 Mbps minimum, 4 Mbps recommended)
 - **Device**: Computer, tablet, or smartphone
 - **Browser**: Chrome, Firefox, Safari, or Edge (latest versions)
