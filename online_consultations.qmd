@@ -1,0 +1,411 @@
+---
+title: "Online Consultations - Google Meet"
+description: "Join your EpiPulse online consultation via secure Google Meet video conference. Easy, accessible, and private healthcare from home."
+---
+
+# Online Consultations via Google Meet
+
+Welcome to EpiPulse's online consultation platform. We provide secure, accessible healthcare consultations through Google Meet, allowing you to connect with healthcare professionals from the comfort of your home.
+
+## How It Works
+
+### For Patients
+
+#### Step 1: Book Your Appointment
+- Visit our [Book Appointment](book_appointment.qmd) page
+- Fill out your details and health concern
+- Select your preferred date, time, and service type
+- Submit the form
+
+#### Step 2: Receive Confirmation
+- You'll receive a confirmation email/SMS within 24 hours
+- Confirmation includes:
+  - Appointment date and time
+  - Doctor/consultant name
+  - **Google Meet link** for the consultation
+  - Meeting code and instructions
+
+#### Step 3: Prepare for Consultation
+- Check your internet connection (minimum 2 Mbps recommended)
+- Find a quiet, private space
+- Ensure adequate lighting for video
+- Have any medical documents/reports ready
+- Join 5-10 minutes before the scheduled time
+
+#### Step 4: Join the Meeting
+**Option A: Click the Link**
+- Click the Google Meet link in your confirmation email
+- Browser will open Google Meet
+- Grant camera and microphone permissions
+- Click "Join Now"
+
+**Option B: Use Meeting Code**
+- Go to [meet.google.com](https://meet.google.com)
+- Click "Join or start a meeting"
+- Enter the meeting code provided
+- Click "Join"
+
+#### Step 5: Consultation
+- Greet your doctor when they join
+- Discuss your health concern
+- Follow medical advice provided
+- Ask clarifying questions
+- Take notes on recommendations
+
+#### Step 6: Receive Prescription
+- Your doctor will provide:
+  - Digital prescription via email
+  - Consultation notes
+  - Follow-up instructions
+  - Any referrals if needed
+
+---
+
+### For Healthcare Providers
+
+#### Setup Steps
+
+1. **Use Dedicated Account**
+   - Use provided Google account credentials
+   - Check calendar for scheduled appointments
+   - Prepare meeting links in advance
+
+2. **Generate/Verify Meet Link**
+   - For each appointment, have the Meet code ready
+   - Test audio/video 5 minutes before
+   - Ensure good lighting and background
+
+3. **Join Meeting**
+   - Join using the meeting code
+   - Greet patient professionally
+   - Conduct consultation following medical protocols
+
+4. **Document Consultation**
+   - Take detailed notes in patient record
+   - Record vital information
+   - Document diagnosis and treatment plan
+
+5. **Issue Prescription**
+   - Create digital prescription
+   - Email to patient with follow-up instructions
+   - Include referrals if needed
+   - Update appointment status as "Completed"
+
+---
+
+## Technology Requirements
+
+### System Requirements
+
+**Minimum Specifications:**
+- **Internet**: Broadband connection (2 Mbps minimum, 4 Mbps recommended)
+- **Device**: Computer, tablet, or smartphone
+- **Browser**: Chrome, Firefox, Safari, or Edge (latest versions)
+- **Camera**: Built-in or external webcam
+- **Microphone**: Built-in or external microphone
+- **Audio**: Speakers or headphones
+
+### Supported Devices
+
+✅ **Desktop/Laptop**
+- Windows, Mac, Linux
+- Any modern browser
+
+✅ **Tablets**
+- iPad, Android tablets
+- Google Meet app recommended
+
+✅ **Smartphones**
+- iPhone/iOS
+- Android phones
+- Google Meet app recommended
+
+### Bandwidth Requirements
+
+| Activity | Required Speed |
+|----------|---|
+| Video call | 2.5 - 4 Mbps |
+| Screen sharing | 3 - 4 Mbps |
+| Multiple participants | 5+ Mbps |
+
+---
+
+## Google Meet Features We Use
+
+### For Better Consultation
+
+1. **Video & Audio**
+   - Crystal clear HD video
+   - Noise cancellation
+   - Multiple microphone options
+
+2. **Screen Sharing**
+   - Doctor can share medical documents
+   - Patient can share reports
+   - Easy reference during consultation
+
+3. **Recording** (Optional)
+   - Patient can request recording for reference
+   - Consent required from both parties
+   - Stored securely for future reference
+
+4. **Chat**
+   - Backup communication if audio fails
+   - Share follow-up information
+   - Exchange contact details if needed
+
+5. **Hand Raise**
+   - Patient can signal questions
+   - Use for getting doctor's attention
+
+---
+
+## Before Your Consultation
+
+### Checklist
+
+- [ ] Confirm appointment date and time in your email/SMS
+- [ ] Test internet connection on the device you'll use
+- [ ] Install Google Meet app (recommended for mobile)
+- [ ] Find a quiet, private space
+- [ ] Gather any medical documents or reports
+- [ ] Charge your device or keep it plugged in
+- [ ] Plan 5 minutes buffer before appointment time
+- [ ] Review your health symptoms/concerns
+- [ ] Have pen and paper ready for notes
+- [ ] Prepare list of medications you're currently taking
+
+### Internet Speed Test
+
+Before your appointment, test your connection:
+1. Visit [speedtest.net](https://www.speedtest.net)
+2. Run the test
+3. Check if download speed is at least 2.5 Mbps
+4. If slower, try:
+   - Moving closer to WiFi router
+   - Closing other apps using internet
+   - Using wired connection if possible
+   - Restarting your router
+
+---
+
+## Troubleshooting
+
+### Common Issues & Solutions
+
+**I Can't Hear the Doctor**
+- Check microphone is not muted (unmute button at bottom)
+- Check speaker volume
+- Try wearing headphones
+- Restart the meeting
+
+**Doctor Can't Hear Me**
+- Check microphone is working in Meet settings
+- Test microphone before appointment
+- Ensure no apps are blocking microphone
+- Try different microphone if available
+
+**Video Not Working**
+- Allow camera permissions in browser
+- Check if webcam is blocked by other app
+- Try different browser
+- Restart computer
+
+**Poor Video Quality**
+- Move closer to WiFi router
+- Close other apps using internet
+- Reduce video quality in Meet settings
+- Check for WiFi interference (move away from microwave, etc.)
+
+**Can't Find Meeting Link**
+- Check email spam/junk folder
+- Request link to be resent
+- Call us: [Phone number]
+- Check your booking confirmation page
+
+**Wrong Device Name Showing**
+- Disconnect other devices
+- Update browser/app
+- Restart Google Meet
+- Log out and log back in
+
+**Lag/Delay in Video**
+- Check internet speed
+- Close unnecessary browser tabs
+- Restart WiFi router
+- Move to stronger WiFi signal area
+
+### Contact Support
+
+If issues persist:
+- **Email**: support@epipulse.org
+- **Phone**: [Your phone number]
+- **WhatsApp**: [Your WhatsApp number]
+- **Hours**: 9 AM - 6 PM, Monday to Saturday
+
+---
+
+## Privacy & Security
+
+### Your Data is Protected
+
+- **Encryption**: Google Meet uses end-to-end encryption
+- **Privacy**: Only you and the doctor can see/hear
+- **Recording**: Only with explicit consent
+- **Data Storage**: Secure servers with backup
+- **HIPAA Compliant**: Follows healthcare privacy standards
+- **No Third-Party Access**: Your data is not shared
+
+### What You Should Do
+
+- ✅ Join from a private location
+- ✅ Use a strong password (if set)
+- ✅ Report any security concerns immediately
+- ❌ Don't share your meeting link with others
+- ❌ Don't record without permission
+- ❌ Don't join from shared/public devices without caution
+
+---
+
+## Meeting Etiquette
+
+### Professional Behavior
+
+**Please Do:**
+- ✅ Arrive 5-10 minutes early
+- ✅ Dress appropriately
+- ✅ Maintain eye contact (look at camera)
+- ✅ Speak clearly and directly
+- ✅ Be respectful and honest about symptoms
+- ✅ Ask for clarifications
+- ✅ Take notes on advice
+
+**Please Don't:**
+- ❌ Multitask during consultation
+- ❌ Have distracting backgrounds
+- ❌ Use offensive language
+- ❌ Interrupt the doctor
+- ❌ Share personal information unnecessarily
+- ❌ Involve too many people in the consultation
+- ❌ Record without consent
+
+---
+
+## Meeting Schedule & Availability
+
+### General OPD
+- **Days**: Monday to Saturday
+- **Hours**: 9 AM - 6 PM
+- **Duration**: 30 minutes
+- **Fee**: ₹200
+
+### Deaddiction Consultation
+- **Days**: Tuesday, Thursday, Saturday
+- **Hours**: 10 AM - 4 PM
+- **Duration**: 45 minutes
+- **Fee**: ₹300
+
+### NCD Care
+- **Days**: Monday to Friday
+- **Hours**: 9 AM - 5 PM
+- **Duration**: 30 minutes
+- **Fee**: ₹250
+
+### Pediatric Care
+- **Days**: Monday to Saturday
+- **Hours**: 9 AM - 2 PM
+- **Duration**: 30 minutes
+- **Fee**: ₹250
+
+---
+
+## Cancellation & Rescheduling
+
+### Policy
+
+- **Cancel/Reschedule**: Up to 24 hours before appointment
+- **No Show**: 2 consecutive no-shows may result in booking suspension
+- **Emergency Cancellation**: Call us immediately
+
+### How to Cancel/Reschedule
+
+1. **Email**: appointments@epipulse.org
+2. **Phone**: [Your phone number] 
+3. **WhatsApp**: [Your WhatsApp number]
+4. Mention your appointment ID
+
+---
+
+## After Your Consultation
+
+### Follow-up Steps
+
+1. **Review Prescription**
+   - Read digital prescription carefully
+   - Follow medication instructions
+   - Note any precautions
+
+2. **Follow Medical Advice**
+   - Implement lifestyle changes suggested
+   - Take medications as prescribed
+   - Complete any recommended tests
+
+3. **Book Follow-up**
+   - If doctor recommended follow-up, book next appointment
+   - Usually within 2-4 weeks
+
+4. **Seek Emergency Help If:**
+   - Symptoms worsen significantly
+   - New severe symptoms develop
+   - Allergic reaction to medication
+   - Call 108 or go to nearest hospital
+
+5. **Share Feedback**
+   - Help us improve the service
+   - Email feedback to: feedback@epipulse.org
+   - Your input is valuable!
+
+---
+
+## FAQ
+
+**Q: Is Google Meet secure for medical consultations?**
+A: Yes. Google Meet uses industry-standard encryption and is HIPAA-compliant.
+
+**Q: Can someone else be present during my consultation?**
+A: Family members can be present with your knowledge, but the consultation is confidential.
+
+**Q: What if I miss my appointment?**
+A: Notify us within 24 hours to reschedule. Repeated no-shows may result in restrictions.
+
+**Q: Can I get a recorded copy of the consultation?**
+A: Only if you request recording before the appointment. Both parties must consent.
+
+**Q: What payment methods do you accept?**
+A: Currently cash/bank transfer. Contact us for payment options.
+
+**Q: Is the prescription valid legally?**
+A: Yes, digital prescriptions from our licensed doctors are legally valid in India.
+
+**Q: Can I consult with a specific doctor?**
+A: Request during booking. Subject to availability.
+
+**Q: What happens during technical failure?**
+A: Doctor will attempt to reconnect. If unable, a callback will be arranged.
+
+---
+
+## Ready to Book Your Consultation?
+
+[**Book Your Appointment Now**](book_appointment.qmd)
+
+---
+
+## Need Help?
+
+- **Email**: support@epipulse.org
+- **Phone**: [Your phone number]
+- **WhatsApp**: [Your WhatsApp number]
+- **Hours**: 9 AM - 6 PM, Monday to Saturday
+
+**Your health, our priority. Consult with confidence!**

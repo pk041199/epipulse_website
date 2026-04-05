@@ -14,10 +14,22 @@ website:
         text: About
       - href: programs.qmd
         text: Programs
+      - href: services.qmd
+        text: Services
+      - text: Appointments
+        menu:
+          - href: book_appointment.qmd
+            text: Book Appointment
+          - href: appointments.qmd
+            text: Manage Appointments
+          - href: online_consultations.qmd
+            text: Online Consultations
       - href: caregrid.qmd
         text: CareGrid App
       - href: impact.qmd
         text: Impact
+      - href: public_health_calendar.qmd
+        text: Health Calendar
       - href: volunteer.qmd
         text: Volunteer
       - text: Resources
@@ -26,8 +38,12 @@ website:
             text: Resource Hub
           - href: ai_with_r.qmd
             text: AI-assisted Data Cleaning Workflow
+          - href: resources.qmd
+            text: Health Resources
           - href: srma_tutorial.qmd
             text: SRMA Tutorial
+          - href: railway_setup.qmd
+            text: Railway Deployment Guide
           - href: public_health_data_analaysis.qmd
             text: Legacy Technical Draft
       - href: community.qmd

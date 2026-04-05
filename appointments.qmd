@@ -1,0 +1,422 @@
+---
+title: "Manage Your Appointments"
+description: "Track, reschedule, or cancel your EpiPulse healthcare appointment. View appointment status and consultation details."
+---
+
+# Manage Your Appointments
+
+Track your healthcare appointments with EpiPulse. Check status, reschedule, or get support for your bookings.
+
+## Check Your Appointment Status
+
+To view your appointment details, use one of these methods:
+
+### Method 1: Email Confirmation
+- Look for your appointment confirmation email
+- Contains all appointment details
+- Shows Google Meet link
+- Includes appointment ID
+
+### Method 2: SMS Confirmation
+- Check SMS sent to your registered phone number
+- Contains appointment date, time, and doctor name
+- Has Meet link or code
+
+### Method 3: Contact Us
+- **Email**: appointments@epipulse.org
+- **Phone**: [Your phone number]
+- **WhatsApp**: [Your WhatsApp number]
+- **Hours**: 9 AM - 6 PM, Monday to Saturday
+
+---
+
+## Your Appointment Information
+
+When you book with us, you'll receive:
+
+```
+═══════════════════════════════════
+     APPOINTMENT CONFIRMATION
+═══════════════════════════════════
+
+Appointment ID: EPP-2024-001234
+Patient Name: [Your Name]
+Registered Phone: [Your Phone]
+Registered Email: [Your Email]
+
+SERVICE DETAILS
+Service Type: General OPD
+Doctor: Dr. [Doctor Name]
+Consultation Fee: ₹200
+
+APPOINTMENT SCHEDULE
+Date: [Appointment Date]
+Time: [Time Slot]
+Duration: 30 minutes
+Location: Online (Google Meet)
+
+GOOGLE MEET DETAILS
+Meeting Link: https://meet.google.com/xxx-xxxx-xxx
+Meeting Code: [Code]
+Password: [If required]
+
+BEFORE YOUR APPOINTMENT
+- Test your internet connection
+- Prepare any medical documents
+- Join 5-10 minutes early
+- Ensure private, quiet space
+
+IMPORTANT REMINDERS
+- Cancellation: Up to 24 hours before
+- No-show policy applies
+- Digital prescription will be emailed
+- Keep this confirmation safe
+
+═══════════════════════════════════
+```
+
+---
+
+## Reschedule Your Appointment
+
+### Rescheduling Policy
+- ✅ **Can reschedule**: Up to 24 hours before appointment
+- ❌ **Cannot reschedule**: Less than 24 hours before appointment
+- ⏰ **Notice required**: 24 hours in advance
+
+### How to Reschedule
+
+#### Step 1: Contact Us
+Send your request within 24 hours of your appointment:
+
+**Option A: Email**
+```
+To: appointments@epipulse.org
+Subject: Reschedule Appointment - [Your Appointment ID]
+
+Dear EpiPulse Team,
+I would like to reschedule my appointment.
+
+Current Appointment:
+- Appointment ID: [From your confirmation]
+- Date: [Current date]
+- Time: [Current time]
+- Doctor: [Doctor name]
+
+Preferred New Date: [Your preference]
+Preferred New Time: [Your preference]
+Reason (Optional): [Why you're rescheduling]
+
+Contact Details:
+- Name: [Your name]
+- Phone: [Your phone]
+- Email: [Your email]
+
+Thank you,
+[Your Name]
+```
+
+**Option B: Phone/WhatsApp**
+- Call: [Your phone number]
+- WhatsApp: [Your WhatsApp number]
+- Say: "I want to reschedule my appointment" (ID: [Your ID])
+- Provide new preferred dates/times
+
+**Option C: Online Form**
+[Reschedule Request Form](https://forms.google.com/YOUR_FORM_ID)
+
+#### Step 2: Confirmation
+- You'll receive confirmation of new appointment
+- New Google Meet link will be sent
+- Update calendar with new date/time
+
+---
+
+## Cancel Your Appointment
+
+### Cancellation Policy
+- ✅ **Can cancel**: Up to 24 hours before appointment
+- ❌ **Cannot cancel**: Less than 24 hours before appointment
+- ⚠️ **Repeated cancellations**: May result in booking restrictions
+
+### How to Cancel
+
+#### Step 1: Notify Us
+**Email:**
+```
+To: appointments@epipulse.org
+Subject: Cancel Appointment - [Your Appointment ID]
+
+I would like to cancel my appointment.
+Appointment ID: [Your ID]
+Date: [Appointment date]
+Reason (Optional): [Your reason]
+
+Thank you,
+[Your Name]
+[Your Phone]
+```
+
+**Phone/WhatsApp:**
+- Call or message: [Your phone number]
+- Say: "I want to cancel my appointment"
+- Mention your Appointment ID
+
+#### Step 2: Confirmation
+- You'll receive cancellation confirmation
+- No charge if cancelled within 24 hours
+- You can rebook anytime
+
+---
+
+## No-Show Policy
+
+### What is a "No-Show"?
+- Booking an appointment but not joining the meeting
+- Not informing us of cancellation
+- Failure to join within 15 minutes of scheduled time
+
+### No-Show Consequences
+
+**First No-Show:**
+- ⚠️ Warning email sent
+- Contact to discuss issues
+- Opportunity to explain
+
+**Second No-Show:**
+- 🚫 Booking privileges suspended for 30 days
+- Must contact us to resume booking
+
+**Third No-Show:**
+- ⛔ Account may be restricted
+- Must speak with management to reinstate
+
+### Avoid No-Shows
+
+- ✅ Mark appointment on your calendar
+- ✅ Set reminder 1 day before
+- ✅ Set reminder 1 hour before
+- ✅ Test internet morning of appointment
+- ✅ Complete all preparations before time
+- ✅ Notify us 24+ hours in advance if you need to cancel
+
+---
+
+## Appointment Status Explained
+
+### Status Types
+
+**PENDING** 🟡
+- Your appointment request received
+- Awaiting final confirmation
+- We'll contact you within 24 hours
+- **Action**: Confirm you can attend
+
+**CONFIRMED** 🟢
+- Appointment is confirmed
+- You have the Google Meet link
+- Doctor is assigned
+- **Action**: Prepare and join on time
+
+**IN PROGRESS** 🔵
+- Consultation is happening now
+- Doctor is online and waiting
+- Join the Google Meet meeting
+- **Action**: Click the Meet link
+
+**COMPLETED** ✅
+- Consultation finished
+- Prescription sent via email
+- Consultation notes forwarded
+- **Action**: Follow medical advice
+
+**CANCELLED** ❌
+- Appointment was cancelled
+- No charge if cancelled 24hrs before
+- You can rebook anytime
+- **Action**: Book new appointment
+
+**NO-SHOW** 🚫
+- You didn't join the meeting
+- Doctor waited but consultation didn't happen
+- May affect future bookings
+- **Action**: Contact us to explain
+
+---
+
+## Appointment Reminders
+
+### Email Reminders
+We send:
+- **7 days before**: Appointment reminder with details
+- **1 day before**: Final confirmation with Meet link
+- **30 minutes before**: Join reminder with link
+- **After appointment**: Follow-up with prescription
+
+### SMS Reminders
+- **1 day before**: Text with appointment time
+- **1 hour before**: Text with Meet link
+- **After appointment**: Prescription delivery notification
+
+### Set Your Own Reminders
+**Google Calendar:**
+1. Add appointment to your calendar
+2. Set reminder 1 day before
+3. Set reminder 30 minutes before
+4. Sync across devices
+
+**Phone Alarm:**
+1. Create alarm on day of appointment
+2. Set 1 hour before appointment time
+3. Set description with Meet link
+
+---
+
+## Track Multiple Appointments
+
+If you have multiple upcoming appointments:
+
+### View All Appointments
+- Email: appointments@epipulse.org with subject "View my appointments"
+- Phone/WhatsApp: Call and ask for your appointment list
+- Include your phone number and email for quick lookup
+
+### Appointment Dashboard (Coming Soon)
+- Login to patient portal
+- View all past and upcoming appointments
+- Download prescriptions and reports
+- Message doctors directly
+
+---
+
+## Prescription & Medical Records
+
+### After Your Appointment
+
+**You'll Receive:**
+1. **Digital Prescription** (via email)
+   - Within 1 hour of consultation
+   - Legally valid in India
+   - Can be printed or show on phone
+
+2. **Consultation Notes** (via email)
+   - Summary of consultation
+   - Diagnosis and treatment plan
+   - Follow-up instructions
+
+3. **Medical Records** (archived)
+   - Stored securely
+   - Accessible for future consultations
+   - Shareable with other doctors if needed
+
+### Request Medical Records
+- Email: records@epipulse.org
+- Include your full name and phone number
+- Specify which records you need
+- Records provided within 24-48 hours
+
+---
+
+## Payment & Billing
+
+### Accepted Payment Methods
+- Cash payment at center (if applicable)
+- Bank transfer (account details provided)
+- Digital payment (UPI - if available)
+
+### Billing Process
+1. **Before Appointment**: Fee confirmed (non-refundable if cancelled <24hrs)
+2. **After Booking**: Invoice/receipt sent
+3. **At Consultation**: Doctor confirms fee in meeting
+4. **After Appointment**: Receipt and summary sent
+
+### Refund Policy
+- ✅ Full refund if cancelled 24+ hours before
+- ❌ No refund if cancelled <24 hours or no-show
+- ⏱️ Refund processed within 5-7 business days
+
+---
+
+## Special Situations
+
+### For First-Time Patients
+- Need to fill detailed health form
+- May take 10-15 minutes extra for orientation
+- Book accordingly with extra time
+
+### For Emergency Cases
+- **DO NOT** use appointment system
+- **Call immediately**: 108 (NDMA Emergency)
+- Go to nearest hospital
+- Telemedicine is not for emergencies
+
+### For Follow-up Consultations
+- Same doctor recommended for continuity
+- Can request same doctor during booking
+- Previous records reviewed automatically
+
+### For Corporate/Group Bookings
+- Bulk appointment discounts available
+- Contact: corporate@epipulse.org
+- Minimum 10 people required
+- Special time slots available
+
+---
+
+## Frequently Asked Questions
+
+**Q: Can I book multiple appointments at once?**
+A: Yes, use the booking form multiple times or contact us for bulk booking.
+
+**Q: Can someone else attend my appointment?**
+A: Family can be present, but consultation code is confidential to you.
+
+**Q: What if I'm late to join?**
+A: Join within 15 minutes. After that, slot considered no-show.
+
+**Q: Can I reschedule multiple times?**
+A: Yes, if done within 24 hours of each appointment.
+
+**Q: What if the doctor doesn't show up?**
+A: We'll contact you within 15 minutes to reschedule. No charge.
+
+**Q: Can I get consultation in my language?**
+A: Request during booking. Availability depends on doctor.
+
+**Q: Is my health information confidential?**
+A: Yes, 100% confidential. Follows medical privacy laws.
+
+**Q: Can I share my appointment link with family?**
+A: Not recommended. Your appointment is personal and confidential.
+
+---
+
+## Contact & Support
+
+**Appointment Queries:**
+- Email: appointments@epipulse.org
+- Phone: [Your phone number]
+- WhatsApp: [Your WhatsApp number]
+- Hours: 9 AM - 6 PM, Monday to Saturday
+
+**Medical Emergencies:**
+- Call 108 (NDMA)
+- Go to nearest hospital
+- Do not wait for telemedicine appointment
+
+**Feedback & Complaints:**
+- Email: feedback@epipulse.org
+- We value your feedback
+- Complaints addressed within 48 hours
+
+---
+
+## Ready to Book?
+
+[**Book Your Appointment**](book_appointment.qmd)
+
+[**Join Your Consultation**](online_consultations.qmd)
+
+---
+
+**Your appointment management made simple. Your health, our priority.**

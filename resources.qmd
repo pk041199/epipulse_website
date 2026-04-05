@@ -1,0 +1,120 @@
+---
+title: "Health Resources"
+description: "Comprehensive health education resources, guidelines, and tools for preventive care and disease management."
+---
+
+# Health Resources
+
+Access our collection of evidence-based health resources designed to empower individuals and communities with knowledge for better health outcomes.
+
+## Preventive Care
+
+### NCD Prevention Guidelines
+- [Diabetes Prevention](https://www.who.int/health-topics/diabetes)
+- [Hypertension Management](https://www.who.int/health-topics/hypertension)
+- [Cardiovascular Health](https://www.who.int/health-topics/cardiovascular-diseases)
+
+### Immunization Schedules
+- [Indian Immunization Schedule](https://www.mohfw.gov.in/)
+- [COVID-19 Vaccination Updates](https://www.mohfw.gov.in/)
+
+## Disease Management
+
+### Diabetes Resources
+- Blood sugar monitoring guides
+- Dietary recommendations
+- Exercise plans for diabetics
+- Medication adherence tips
+
+### Hypertension Management
+- Home blood pressure monitoring
+- DASH diet guidelines
+- Stress management techniques
+- Medication information
+
+### Respiratory Health
+- Asthma action plans
+- COPD management
+- Smoking cessation resources
+
+## Maternal and Child Health
+
+### Pregnancy Care
+- Antenatal care checklists
+- Nutrition during pregnancy
+- Warning signs and when to seek help
+
+### Child Health
+- Growth monitoring charts
+- Common childhood illnesses
+- Developmental milestones
+- Pediatric vaccination reminders
+
+## Mental Health and Deaddiction
+
+### Mental Health Resources
+- Stress management techniques
+- Anxiety and depression resources
+- Suicide prevention helplines
+
+### Addiction Recovery
+- Understanding addiction
+- Withdrawal management
+- Relapse prevention strategies
+- Support group information
+
+## COVID-19 Resources
+
+### Prevention
+- Mask usage guidelines
+- Hand hygiene protocols
+- Social distancing measures
+
+### Management
+- Home isolation guidelines
+- Symptom tracking
+- When to seek medical help
+
+## Health Calculators and Tools
+
+### BMI Calculator
+Calculate your Body Mass Index to assess weight status.
+
+### Calorie Counter
+Track daily caloric intake for weight management.
+
+### Water Intake Calculator
+Determine your daily water requirements.
+
+## Educational Materials
+
+### Infographics
+- NCD risk factors
+- Healthy eating plate
+- Exercise recommendations
+
+### Videos
+- Health education webinars
+- Exercise demonstrations
+- Cooking healthy meals
+
+### Articles
+- Latest health research summaries
+- Public health news
+- Expert opinions
+
+## Downloadable Resources
+
+[Download our comprehensive health toolkit (PDF)](health_toolkit.pdf)
+
+## Partner Resources
+
+- [Ministry of Health and Family Welfare](https://www.mohfw.gov.in/)
+- [World Health Organization](https://www.who.int/)
+- [Indian Council of Medical Research](https://www.icmr.gov.in/)
+
+## Contribute Resources
+
+Help us expand our resource library! If you have health education materials you'd like to share, please contact us at resources@epipulse.org.
+
+*All resources are reviewed for accuracy and relevance. For medical advice, please consult healthcare professionals.*
