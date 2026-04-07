@@ -1,6 +1,6 @@
 ---
-title: "EpiPulse Journal"
-description: "Open access public health journal for medical students and emerging public health professionals."
+title: "GJPH"
+description: "Open access global public health journal from EpiPulse with special editions for young researchers, theses, and undergraduates."
 execute:
   eval: false
 format:
@@ -9,47 +9,58 @@ format:
     number-sections: false
 ---
 
-# EpiPulse Journal of Public Health and Medical Student Research
+# GJPH — Global Journal of Public Health
 
-EpiPulse Journal is an open access academic journal dedicated to public health, epidemiology, medical education, and applied research for medical students and early-career practitioners.
+The **GJPH (Global Journal of Public Health)** is an open access academic journal published by EpiPulse to publish global and applied public health research with a strong focus on medical students, young researchers, and undergraduate public health scholars.
 
 ## Journal name and identity
 
-- **Journal title**: *EpiPulse Journal of Public Health and Medical Student Research*
+- **Journal title**: *GJPH — Global Journal of Public Health*
+- **Publisher**: EpiPulse
 - **Platform**: Open Journal Systems (OJS)
-- **Access**: openly available to authors, reviewers, editors, and readers
+- **Access**: freely available to authors, reviewers, editors, and readers
 - **Link**: [Open the journal platform](../epipulse-journal/)
 
 ## Scope and aims
 
-EpiPulse Journal publishes original work that advances the evidence base for public health practice, policy, and education with a strong focus on:
+The journal advances EpiPulse's mission of evidence, equity, and action in public health by publishing work that supports policy, practice, education, and community benefit. It is intentionally aligned with the organisation's focus on public health systems, health equity, and student-led innovation.
 
-- Medical student research and case studies
-- Public health systems strengthening
-- Health equity, prevention, and community engagement
-- Implementation science and data-driven decision making
-- Health education, training, and capacity building
+### Focus areas
+
+- Global public health research with practical policy and practice relevance
+- Medical student and undergraduate research, including theses and final-year projects
+- Young researcher articles, early-career investigator reports, and student innovation briefs
+- Health equity, prevention, community empowerment, and systems strengthening
+- Implementation science, monitoring and evaluation, digital health, and One Health approaches
 
 ### Aims
 
-1. Support medical students and early-career researchers to publish rigorous, peer-reviewed work.
-2. Promote open access knowledge that strengthens public health practice.
-3. Showcase applied research and student-led innovation for health systems.
-4. Build a transparent, ethical editorial process with strong academic oversight.
+1. Provide a unique EpiPulse publication outlet for high-quality open access public health research.
+2. Support medical students, undergraduates, and young researchers to publish peer-reviewed work.
+3. Launch regular special editions for young researchers, student theses, and undergraduate public health scholarship.
+4. Promote transparent, ethical editorial practices and a supportive review environment.
+
+## Special editions
+
+The journal includes dedicated publication tracks and issues for:
+
+- **Young Researcher Editions** — early-stage researchers and trainees in public health.
+- **Undergraduate Thesis Showcase** — final-year student theses, capstone projects, and honours research.
+- **Medical Student Research Issues** — student-led studies, clinical-public health case reports, and education-focused work.
 
 ## Article sections
 
-The journal is organized into clearly defined sections so authors and reviewers can connect with the right audience:
+The journal is organized into sections that support both academic rigour and practical relevance:
 
-- **Student Research** — empirical studies, pilot projects, and exploratory analyses.
-- **Case Reports & Practice** — real-world public health interventions, outbreak responses, and clinical-community case studies.
-- **Education & Training** — medical education, curriculum innovation, simulation, and learning science.
-- **Policy & Systems** — health systems, governance, policy analysis, and equity-focused action.
-- **Data & Innovation** — applied data science, health informatics, monitoring, evaluation, and digital health.
+- **Student Research** — empirical projects, pilot studies, and thesis-based investigations.
+- **Case Reports & Practice** — community interventions, outbreak response descriptions, and public health practice notes.
+- **Education & Training** — health workforce development, curriculum innovation, simulation, and learning science.
+- **Policy & Systems** — health systems research, governance, policy analysis, and equity-focused action.
+- **Data & Innovation** — applied data science, digital health, monitoring, evaluation, and health informatics.
 
 ## Editorial and review roles
 
-EpiPulse Journal uses a full editorial workflow to support quality and transparency:
+EpiPulse Global Journal of Public Health uses a full editorial workflow to support quality, transparency, and inclusiveness:
 
 - **Editor-in-Chief**
 - **Section editors**
@@ -59,21 +70,21 @@ EpiPulse Journal uses a full editorial workflow to support quality and transpare
 - **Journal manager / administrator**
 - **Technical support**
 
-This role set mirrors existing OJS workflows and prepares the journal for academic peer review and publication.
+This structure matches Open Journal Systems workflows and supports formal academic publishing.
 
 ## Publication model
 
-- Open access publishing with free online access to readers
+- Open access, free to read and share
 - Transparent peer review and author guidance
-- Clear ethical standards and editorial accountability
-- Support for medical student authors and early-stage researchers
+- Ethical editorial standards and accountability
+- Special support for student authors, theses, and young public health researchers
 
 ## Get started
 
-To explore the journal, submit work, or participate in review:
+To explore the journal, submit work, or join review:
 
-- Open the journal platform: [EpiPulse Journal Portal](../epipulse-journal/)
-- Review the journal scope and author guidelines on the platform
+- Open the journal platform: [EpiPulse Global Journal of Public Health Portal](../epipulse-journal/)
+- Review author guidelines and scope on the platform
 - Contact the EpiPulse team through [Contact](contact.qmd)
 
-> The EpiPulse Journal is built as a complementary academic publishing channel for the EpiPulse platform, focused on public health research, medical education, and evidence-based practice.
+> The EpiPulse Global Journal of Public Health is the organisation's open access publishing channel for public health research, student scholarship, and applied evidence to action.

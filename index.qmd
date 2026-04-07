@@ -16,7 +16,7 @@ editor: visual
 EpiPulse is building a mission-driven public health platform that links epidemiology, implementation science, and community partnerships to create measurable social benefit.
 
 <a class="btn btn-primary btn-lg me-2" href="about.qmd">Mission and Vision</a>
-<a class="btn btn-outline-light btn-lg me-2" href="journal.qmd">Visit the EpiPulse Journal</a>
+<a class="btn btn-outline-light btn-lg me-2" href="journal.qmd">Visit GJPH</a>
 <a class="btn btn-outline-light btn-lg" href="contact.qmd#volunteer">Volunteer With Us</a>
 :::
 
@@ -78,7 +78,7 @@ Our mission is executed through eight internal divisions:
 
 Explore division-aligned materials in the [Resource Hub](public_health_data_analysis.qmd).
 
-Discover our new open access academic journal on public health and medical student research in the [EpiPulse Journal](journal.qmd).
+Discover our new open access academic journal, [GJPH](journal.qmd), with special issues for young researchers, undergraduate theses, and medical student scholarship.
 
 ## Current Stage
 

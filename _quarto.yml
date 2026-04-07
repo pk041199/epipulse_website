@@ -45,7 +45,7 @@ website:
           - href: https://drpkepipulse1.shinyapps.io/iapgrowthr/
             text: Health Data Analysis Tool
           - href: journal.qmd
-            text: EpiPulse Journal
+            text: GJPH
           - href: resources.qmd
             text: Health Reference Materials
           - href: srma_tutorial.qmd
