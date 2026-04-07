@@ -42,9 +42,7 @@ website:
             text: Resource Hub
           - href: ai_with_r.qmd
             text: AI Workflow for Data Cleaning
-          - href: https://drpkepipulse1.shinyapps.io/iapgrowthr/
-            text: Health Data Analysis Tool
-          - href: journal.qmd
+          - href: http://localhost/gjph/
             text: GJPH
           - href: resources.qmd
             text: Health Reference Materials
