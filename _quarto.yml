@@ -4,8 +4,10 @@ project:
 
 website:
   title: "EpiPulse"
+  favicon: images/epipulse-logo.svg
   page-navigation: true
   navbar:
+    logo: images/epipulse-logo.svg
     background: primary
     left:
       - href: index.qmd
@@ -76,4 +78,3 @@ format:
     toc: true
     number-sections: false
     smooth-scroll: true
-

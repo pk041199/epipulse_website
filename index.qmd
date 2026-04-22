@@ -1,5 +1,6 @@
 ---
 title: "EpiPulse"
+page-layout: full
 execute:
   eval: false
 format:
@@ -8,82 +9,194 @@ format:
 editor: visual
 ---
 
-::: {.hero .hero-mission}
-<p class="hero-kicker">Section 8 Public Health Organization</p>
+::: {.pixel-hero}
+::: {.pixel-hero-copy}
+<div class="hero-brand-lockup">
+  <img src="images/epipulse-logo.svg" alt="EpiPulse logo" class="hero-logo">
+  <span class="hero-kicker">Section 8 Public Health Organization</span>
+</div>
 
-# Evidence. Equity. Action.
+# Public health, made more human.
 
-EpiPulse is building a mission-driven public health platform that links epidemiology, implementation science, and community partnerships to create measurable social benefit.
+EpiPulse connects evidence, community action, and implementation support so health programs can move from ideas to real-world outcomes with more clarity, trust, and speed.
 
-<a class="btn btn-primary btn-lg me-2" href="about.qmd">Mission and Vision</a>
-<a class="btn btn-outline-light btn-lg me-2" href="http://localhost/gjph/">Visit GJPH</a>
-<a class="btn btn-outline-light btn-lg" href="contact.qmd#volunteer">Volunteer With Us</a>
+<div class="hero-cta-row">
+  <a class="btn btn-dark btn-lg" href="about.qmd">Explore Our Mission</a>
+  <a class="btn btn-outline-dark btn-lg" href="programs.qmd">View Programs</a>
+  <a class="btn btn-outline-dark btn-lg" href="contact.qmd#volunteer">Join as a Volunteer</a>
+</div>
+
+<div class="hero-trust-row">
+  <div class="trust-pill"><strong>8</strong> internal divisions</div>
+  <div class="trust-pill"><strong>Research</strong> to implementation</div>
+  <div class="trust-pill"><strong>Ethics</strong> and transparency first</div>
+</div>
 :::
 
-## Mission, Vision, and Objectives
+::: {.pixel-hero-visual}
+<div class="device-stage">
+  <div class="device-shell">
+    <div class="device-screen">
+      <div class="screen-orb orb-one"></div>
+      <div class="screen-orb orb-two"></div>
+      <div class="screen-orb orb-three"></div>
+      <div class="screen-copy">
+        <span>Field-ready public health support</span>
+        <strong>Evidence. Equity. Action.</strong>
+      </div>
+    </div>
+  </div>
 
-::: {.mvo-grid}
-::: {.mvo-card}
-### Mission
-Generate and translate high-quality public health evidence into practical decisions, responsible implementation, and community benefit.
+  <div class="floating-stat stat-top">
+    <span>Community-centered</span>
+    <strong>Programs designed for people, not just reports</strong>
+  </div>
+
+  <div class="floating-stat stat-bottom">
+    <span>Operationally transparent</span>
+    <strong>Compliance, systems thinking, and measurable social benefit</strong>
+  </div>
+</div>
+:::
 :::
 
-::: {.mvo-card}
-### Vision
-Build healthier, resilient, and equitable communities by connecting science, systems, and people-centered action.
+::: {.launch-strip}
+<p class="launch-eyebrow">What EpiPulse helps deliver</p>
+<div class="launch-grid">
+  <div>
+    <strong>Applied epidemiology</strong>
+    <p>Research, analysis, and evidence translation for public health decisions.</p>
+  </div>
+  <div>
+    <strong>Implementation support</strong>
+    <p>Programs, workflows, and capacity building for institutions and communities.</p>
+  </div>
+  <div>
+    <strong>Responsible growth</strong>
+    <p>Transparency, ethics, partnerships, and systems built for long-term trust.</p>
+  </div>
+</div>
 :::
 
-::: {.mvo-card}
-### Strategic Objective
-Create an institution that is scientifically rigorous, ethically grounded, operationally transparent, and collaborative by design.
+## Designed Around Real Public Health Work
+
+::: {.feature-stack}
+::: {.feature-panel .feature-panel-large}
+<div class="feature-copy">
+  <p class="feature-label">Mission platform</p>
+  <h3>One organization, multiple ways to strengthen public health systems.</h3>
+  <p>EpiPulse brings together research quality, implementation science, community partnership, and digital coordination so programs are not fragmented across disconnected efforts.</p>
+</div>
+<div class="feature-art feature-art-gradient">
+  <div class="signal-card">
+    <span>Mission</span>
+    <strong>Generate evidence and turn it into action.</strong>
+  </div>
+  <div class="signal-card">
+    <span>Vision</span>
+    <strong>Healthier, more equitable, and more resilient communities.</strong>
+  </div>
+  <div class="signal-card">
+    <span>Objective</span>
+    <strong>Build rigorous, ethical, transparent public health infrastructure.</strong>
+  </div>
+</div>
+:::
+
+::: {.feature-grid}
+::: {.feature-panel}
+<div class="feature-copy">
+  <p class="feature-label">Research to implementation</p>
+  <h3>From analytics and evidence reviews to community-ready execution.</h3>
+  <p>We support epidemiology, health data analysis, prevention planning, and implementation pathways that can be used by practitioners and institutions.</p>
+</div>
+:::
+
+::: {.feature-panel}
+<div class="feature-copy">
+  <p class="feature-label">People-centered collaboration</p>
+  <h3>Built to work with volunteers, institutions, and partners.</h3>
+  <p>The organization is structured for cross-functional delivery through partnerships, education, software systems, and impact monitoring.</p>
+</div>
+:::
+
+::: {.feature-panel}
+<div class="feature-copy">
+  <p class="feature-label">Safe and transparent growth</p>
+  <h3>Programs activate in line with compliance and verification standards.</h3>
+  <p>EpiPulse is in its setup phase, with public materials and support channels being published carefully and responsibly.</p>
+</div>
+:::
 :::
 :::
 
-## Core Objectives
+## Core Focus Areas
 
-::: {.objective-grid}
+::: {.objective-grid .objective-grid-polished}
 ::: {.objective-card}
-### Objective 01
-Advance epidemiology and implementation research focused on real public health priorities.
+### Evidence and Research
+Advance epidemiology, data analysis, and applied public health research around real population health priorities.
 :::
 
 ::: {.objective-card}
-### Objective 02
-Strengthen prevention and health-promotion programs in community settings.
+### Prevention and Programs
+Strengthen prevention, health promotion, and implementation models in community and institutional settings.
 :::
 
 ::: {.objective-card}
-### Objective 03
-Support institutions with training, methods, and technical public health systems inputs.
+### Capacity and Systems
+Provide training, technical support, and systems inputs that improve delivery quality and readiness.
 :::
 
 ::: {.objective-card}
-### Objective 04
-Embed ethics, equity, One Health thinking, and data responsibility across all workflows.
+### Ethics and Equity
+Embed ethics, equity, One Health thinking, and data responsibility across every workflow.
 :::
 :::
 
 ## How the Mission Gets Delivered
 
-Our mission is executed through eight internal divisions:
+::: {.division-showcase}
+<div class="division-copy">
+  <p class="feature-label">Internal structure</p>
+  <h3>Eight divisions support delivery from strategy to field execution.</h3>
+  <p>Our setup is designed so scientific rigor, operations, governance, education, and resource mobilization grow together rather than in silos.</p>
+  <p><a class="inline-link" href="public_health_data_analysis.qmd">Explore the Resource Hub</a></p>
+</div>
 
-1. Research and Evidence
-2. Public Health Implementation
-3. Collaboration and Partnerships
-4. Accounts and Legal Compliance
-5. Software and Systems
-6. Education and Fellowship
-7. Monitoring, Evaluation, Impact, and Ethics
-8. Grants, Funding, and Resource Mobilization
+<div class="division-list">
+  <div class="division-item"><span>01</span> Research and Evidence</div>
+  <div class="division-item"><span>02</span> Public Health Implementation</div>
+  <div class="division-item"><span>03</span> Collaboration and Partnerships</div>
+  <div class="division-item"><span>04</span> Accounts and Legal Compliance</div>
+  <div class="division-item"><span>05</span> Software and Systems</div>
+  <div class="division-item"><span>06</span> Education and Fellowship</div>
+  <div class="division-item"><span>07</span> Monitoring, Evaluation, Impact, and Ethics</div>
+  <div class="division-item"><span>08</span> Grants, Funding, and Resource Mobilization</div>
+</div>
+:::
 
-Explore division-aligned materials in the [Resource Hub](public_health_data_analysis.qmd).
+## Start Here
 
-Discover our separate journal website, [GJPH](http://localhost/gjph/), with special issues for young researchers, undergraduate theses, and medical student scholarship.
+::: {.quick-links-grid}
+::: {.quick-link-card}
+### Transparency
+Understand the legal, compliance, and accountability foundation of the organization.
 
-## Current Stage
+[View Transparency](transparency.qmd)
+:::
 
-EpiPulse is in its setup phase. Programs, reports, and donation channels will be activated and published in line with compliance and verification standards.
+::: {.quick-link-card}
+### Programs Roadmap
+See the program areas being prepared for activation and public release.
 
-- [Transparency and Legal Framework](transparency.qmd)
-- [Programs Roadmap](programs.qmd)
-- [Community and Collaboration](community.qmd)
+[View Programs](programs.qmd)
+:::
+
+::: {.quick-link-card}
+### Community
+Find ways to collaborate, volunteer, or connect with the EpiPulse network.
+
+[Join the Community](community.qmd)
+:::
+:::
